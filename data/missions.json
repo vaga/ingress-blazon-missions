@@ -1,0 +1,7204 @@
+[
+  {
+    "guid": "emFjNk1YU01hM1JwOXhSeTZxRjFkTTlyRENvbkJuUmVKY0c0N09KN2p6QnNtNWE0QUlWTHNjeDJndUdZQXovQQ==",
+    "name": "Amnéville",
+    "coords": [
+      49.244823,
+      6.133354
+    ],
+    "icon": "https://lh3.googleusercontent.com/MmOG7dsh26o_AV9keGNisYT7MK46jJVTVhUI7b_fSGwJP7AKUoQl1TpIS8QNIlRbwuVA1fJpjmMZITz-XDmOww=s30",
+    "waypoints": [
+      {
+        "name": "La Rondelle",
+        "type": "hack",
+        "coords": [
+          49.244823,
+          6.133354
+        ]
+      },
+      {
+        "name": "Statue Bronze",
+        "type": "hack",
+        "coords": [
+          49.244813,
+          6.133034
+        ]
+      },
+      {
+        "name": "Casino Seven",
+        "type": "hack",
+        "coords": [
+          49.244561,
+          6.132795
+        ]
+      },
+      {
+        "name": "Poissons Volants A Amneville",
+        "type": "hack",
+        "coords": [
+          49.244325,
+          6.130422
+        ]
+      },
+      {
+        "name": "Thermapolis",
+        "type": "hack",
+        "coords": [
+          49.242889,
+          6.128839
+        ]
+      },
+      {
+        "name": "Villa Pompéi",
+        "type": "hack",
+        "coords": [
+          49.243061,
+          6.12689
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "a01oK3dFZkRnVXYyeEQyaTdLY0ZhQ05rN1lNVzB0WjZyZSt0Qk16am9uVHF3akhlUWVFVWlIRU9aVy9LR01KdQ==",
+    "name": "Annecy",
+    "coords": [
+      45.898354,
+      6.123768
+    ],
+    "icon": "https://lh3.googleusercontent.com/hhYbGquOZQp0Te2VUneqhKoNabstPpiCvHyaAsmcFiTWpK_lvvUVoBwGQn-4M5Yk2HE9iGAeQd4Cp9OvpJo=s30",
+    "waypoints": [
+      {
+        "name": "Place Sainte Claire",
+        "type": "hack",
+        "coords": [
+          45.898354,
+          6.123768
+        ]
+      },
+      {
+        "name": "Hôtel Particulier Gallois Regard",
+        "type": "hack",
+        "coords": [
+          45.898389,
+          6.124371
+        ]
+      },
+      {
+        "name": "Fontaine Roussel",
+        "type": "hack",
+        "coords": [
+          45.898443,
+          6.125049
+        ]
+      },
+      {
+        "name": "Climber - Annecy,France",
+        "type": "hack",
+        "coords": [
+          45.898521,
+          6.125908
+        ]
+      },
+      {
+        "name": "Fontaine De Jouvence",
+        "type": "hack",
+        "coords": [
+          45.898275,
+          6.126186
+        ]
+      },
+      {
+        "name": "Palais de l'Isle",
+        "type": "hack",
+        "coords": [
+          45.89858,
+          6.126895
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "MWNvTHBqcE92cjRWcUhOWTdtWG5tRDF0d2NtTGRMUlNiSWgxbWZpcFptNFI3ZnBFeGRuNFJ6Skk3cWhkVFg2Qw==",
+    "name": "Bambiderstroff",
+    "coords": [
+      49.101665,
+      6.594135
+    ],
+    "icon": "https://lh3.googleusercontent.com/iMoJQnWWz272k0xFG-8hM_yFDz85z6yYWe1wS8txWuL9b3JrxU9Jz-tBxt4ExA5L4y1MqgK1SNfef0Xw8Bym=s30",
+    "waypoints": [
+      {
+        "name": "Bambi Statue Ange",
+        "type": "hack",
+        "coords": [
+          49.101665,
+          6.594135
+        ]
+      },
+      {
+        "name": "Bambi Statue Berger",
+        "type": "hack",
+        "coords": [
+          49.101282,
+          6.593579
+        ]
+      },
+      {
+        "name": "Bambi Maison De Bois",
+        "type": "hack",
+        "coords": [
+          49.10151,
+          6.593551
+        ]
+      },
+      {
+        "name": "Bambi Calvaire Jardin",
+        "type": "hack",
+        "coords": [
+          49.101947,
+          6.594997
+        ]
+      },
+      {
+        "name": "Bambi Poste",
+        "type": "hack",
+        "coords": [
+          49.102029,
+          6.593241
+        ]
+      },
+      {
+        "name": "Bambiderstrof Armoiries",
+        "type": "hack",
+        "coords": [
+          49.100466,
+          6.593434
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "dVVqOTh5YzNXaFJxODdFa2xBUGZLZ3U1aE1PMEd2NlV3akt4YlJrUllGS0xKajFrQWVuZjg0NmgyQTFsVUI1SA==",
+    "name": "Baudricourt",
+    "coords": [
+      48.308744,
+      6.043846
+    ],
+    "icon": "https://lh3.googleusercontent.com/RulQHoTcO4mGiP0KZoutfSJ2KzkF8GVfpE-NU5hw8MInp780j5PLcHnX3vPlP7b3pFq78uHarVSmmaDE2WQ=s30",
+    "waypoints": [
+      {
+        "name": "Les Arroseurs  ",
+        "type": "hack",
+        "coords": [
+          48.308744,
+          6.043846
+        ]
+      },
+      {
+        "name": "Baudricourt - Le Bassin Granitique",
+        "type": "hack",
+        "coords": [
+          48.308968,
+          6.044833
+        ]
+      },
+      {
+        "name": "Statue St Remy - Baudricourt",
+        "type": "hack",
+        "coords": [
+          48.309672,
+          6.052474
+        ]
+      },
+      {
+        "name": "Calvaire De Baudricourt ",
+        "type": "hack",
+        "coords": [
+          48.30961,
+          6.05459
+        ]
+      },
+      {
+        "name": "Eglise Saint Rémy De Baudricourt ",
+        "type": "hack",
+        "coords": [
+          48.31312,
+          6.053944
+        ]
+      },
+      {
+        "name": "Monument Aux Morts - Baudricourt",
+        "type": "hack",
+        "coords": [
+          48.31323,
+          6.054011
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "RDJyclByejMyVVMyNktBUWU0SDljZnk0d1JKRkkrbGlOMUE3WCs3SUZmajhNZUxKaWdxbWRkSUhkUEROaVBRbQ==",
+    "name": "Bayon",
+    "coords": [
+      48.468021,
+      6.322565
+    ],
+    "icon": "https://lh3.googleusercontent.com/27bxeiIEEevU_95Z9jAyGZQe00YnLI9eLlclx9t-eLS4DDSfJgQZCc5-dpu8C_3WrmhbCGbuY1pAAfAfw7X79Q=s30",
+    "waypoints": [
+      {
+        "name": "Bayon - Gare",
+        "type": "hack",
+        "coords": [
+          48.468021,
+          6.322565
+        ]
+      },
+      {
+        "name": "Musée Des Oubliés Bayon",
+        "type": "hack",
+        "coords": [
+          48.468174,
+          6.322084
+        ]
+      },
+      {
+        "name": "La Poste Bayon",
+        "type": "hack",
+        "coords": [
+          48.472272,
+          6.317334
+        ]
+      },
+      {
+        "name": "Fontaine Place De Lorraine",
+        "type": "hack",
+        "coords": [
+          48.476068,
+          6.313851
+        ]
+      },
+      {
+        "name": "Château De Bayon ",
+        "type": "hack",
+        "coords": [
+          48.476101,
+          6.312235
+        ]
+      },
+      {
+        "name": "Église Saint Martin",
+        "type": "hack",
+        "coords": [
+          48.476498,
+          6.311633
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "WG1rWWxONWZRcnhqRkRFT1FQUFo5cWNDVDZMOTNjQWNUZUc2SjBiY0x5dlFsRUtjQlVVdWt5UXZhb0FpMDRtNA==",
+    "name": "Boucheporn",
+    "coords": [
+      49.142213,
+      6.611129
+    ],
+    "icon": "https://lh3.googleusercontent.com/gsze0qtaXSpSM0mNeEEghBFCOHMHhp3au5ttdSkvj4tkv6SKWvAFKIJkIO2EKeEEu61YVLwOx_zQUQu3-Ng4nw=s30",
+    "waypoints": [
+      {
+        "name": "Boucheporn Calvaire En Pot",
+        "type": "hack",
+        "coords": [
+          49.142213,
+          6.611129
+        ]
+      },
+      {
+        "name": "Boucheporn Eglise",
+        "type": "hack",
+        "coords": [
+          49.140732,
+          6.609233
+        ]
+      },
+      {
+        "name": "la fete a boucheporn",
+        "type": "hack",
+        "coords": [
+          49.140789,
+          6.608843
+        ]
+      },
+      {
+        "name": "Boucheporn Fontaine",
+        "type": "hack",
+        "coords": [
+          49.140307,
+          6.608507
+        ]
+      },
+      {
+        "name": "Boucheporn Ancienne Pompe Des Pompiers",
+        "type": "hack",
+        "coords": [
+          49.140089,
+          6.609052
+        ]
+      },
+      {
+        "name": "Boucheporn Calvaire",
+        "type": "hack",
+        "coords": [
+          49.138933,
+          6.609329
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "b2YxdVZiNmFVQnB0SGNFTlN4TUhyOHFGek5ZT2ZlYUpCZ0swZE5JeEs0cnJIZ3lHSUMyaGxhS0NQTE02T1padg==",
+    "name": "Bruyères",
+    "coords": [
+      48.211895,
+      6.720001
+    ],
+    "icon": "https://lh3.googleusercontent.com/tzoW0K8HhF7Pc_ijrL3KVcwsMy2XjHJOj_P11o-iMUJfo_xmbQV4BwIJXTWzwqnNW-uGk06UWfZ-LP1cXe3j=s30",
+    "waypoints": [
+      {
+        "name": "Eglise De Bruyères",
+        "type": "hack",
+        "coords": [
+          48.211895,
+          6.720001
+        ]
+      },
+      {
+        "name": "City Water Fountain NTT",
+        "type": "hack",
+        "coords": [
+          48.210008,
+          6.72066
+        ]
+      },
+      {
+        "name": "Jean Antoine Villemin Statue NTT",
+        "type": "hack",
+        "coords": [
+          48.209096,
+          6.72231
+        ]
+      },
+      {
+        "name": "Le Terrain Autrefois Montreux NTT",
+        "type": "hack",
+        "coords": [
+          48.208917,
+          6.722929
+        ]
+      },
+      {
+        "name": "Esplanade De Souvenir NTT",
+        "type": "hack",
+        "coords": [
+          48.208835,
+          6.722234
+        ]
+      },
+      {
+        "name": "Fourmis Géante ",
+        "type": "hack",
+        "coords": [
+          48.212618,
+          6.711043
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "alFKcS8ra2xreHhTOEZzbWJCdEJ6WWFBTmdlWDlxZ3VxcU9xUnRxQjRpY0RoRk9oREwwZEg2RGw5QXFHVmptVg==",
+    "name": "Carling",
+    "coords": [
+      49.16752,
+      6.712326
+    ],
+    "icon": "https://lh3.googleusercontent.com/W-RIkvpF8Ut95ICbVANkBAwMMLTaiznVGfy6soRxznHYKVEI3pjjV4ddINgCETcVqoYYklIH_cxe2X1w7t18=s30",
+    "waypoints": [
+      {
+        "name": "Carling, calvaire du cimetière",
+        "type": "hack",
+        "coords": [
+          49.16752,
+          6.712326
+        ]
+      },
+      {
+        "name": "Carling, croix du cimetière",
+        "type": "hack",
+        "coords": [
+          49.167506,
+          6.712803
+        ]
+      },
+      {
+        "name": "Carling, sculpture de lion rue",
+        "type": "hack",
+        "coords": [
+          49.165875,
+          6.714836
+        ]
+      },
+      {
+        "name": "La Poste",
+        "type": "hack",
+        "coords": [
+          49.16523,
+          6.715975
+        ]
+      },
+      {
+        "name": "Carling, église Saint-Gérard M",
+        "type": "hack",
+        "coords": [
+          49.164508,
+          6.716115
+        ]
+      },
+      {
+        "name": "Carling, calvaire de l'église",
+        "type": "hack",
+        "coords": [
+          49.16467,
+          6.715224
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "YVliazFHU2JUTGU1bk56dko3WUxiUjJVR1l3M3RrS2YweWozWTFvWG1OamV6Q242cnpsYWtHSUxpRTJkTXRKTg==",
+    "name": "Chaligny",
+    "coords": [
+      48.629131,
+      6.08389
+    ],
+    "icon": "https://lh3.googleusercontent.com/nYCBtgeETg7r87bPdSl_leahMGSy3mM9rKXOmSjbMDWg7qTu93DsakedCibtf6YqBglC7qO3ym5X9368vM3zYg=s30",
+    "waypoints": [
+      {
+        "name": "Chaligny - Statue Vierge",
+        "type": "hack",
+        "coords": [
+          48.629131,
+          6.08389
+        ]
+      },
+      {
+        "name": "Chaligny : Croix",
+        "type": "hack",
+        "coords": [
+          48.627246,
+          6.084095
+        ]
+      },
+      {
+        "name": "Mémoire Des Enfants",
+        "type": "hack",
+        "coords": [
+          48.624848,
+          6.082548
+        ]
+      },
+      {
+        "name": "Chaligny : Eglise XIII eme Siècle",
+        "type": "hack",
+        "coords": [
+          48.623706,
+          6.083665
+        ]
+      },
+      {
+        "name": "Chaligny - Mairie",
+        "type": "hack",
+        "coords": [
+          48.622926,
+          6.085425
+        ]
+      },
+      {
+        "name": "Chaligny - Chapelle Notre-Dame-Des-Mineurs",
+        "type": "hack",
+        "coords": [
+          48.619879,
+          6.08967
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "dkV4b2Z6djkyVHBZZ2RJV3QwT3dVVVhlUFJxVW44Z1JZaGNDcDF2Qm9uZGlGdnNzcEc4c0hhVGZBc3VmakVwNQ==",
+    "name": "Charmes",
+    "coords": [
+      48.378488,
+      6.301429
+    ],
+    "icon": "https://lh3.googleusercontent.com/ef3V_gnpFA0vo5X8yiV7mz1IHKoNa-3KC1LmivmapIIbFE85Wy2aMTlQM1RF1mHAx02Bvv9IQoEfJQtloZ2A=s30",
+    "waypoints": [
+      {
+        "name": "Gare De Charmes",
+        "type": "hack",
+        "coords": [
+          48.378488,
+          6.301429
+        ]
+      },
+      {
+        "name": "Fresque Du Lycée",
+        "type": "hack",
+        "coords": [
+          48.379164,
+          6.300441
+        ]
+      },
+      {
+        "name": "Château D'eau De Charmes",
+        "type": "hack",
+        "coords": [
+          48.376621,
+          6.302364
+        ]
+      },
+      {
+        "name": "Charmes - Maison du Livre et de la Culture",
+        "type": "hack",
+        "coords": [
+          48.372023,
+          6.294811
+        ]
+      },
+      {
+        "name": "Monument Aux Morts De Charmes",
+        "type": "hack",
+        "coords": [
+          48.370906,
+          6.294716
+        ]
+      },
+      {
+        "name": "Charmes - Salle de l'Espée",
+        "type": "hack",
+        "coords": [
+          48.37062,
+          6.294863
+        ]
+      },
+      {
+        "name": "Charmes - Hôtel de Ville",
+        "type": "hack",
+        "coords": [
+          48.372219,
+          6.293201
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "TjVrNjZlbmxZWkNaRVZsYXUvZW9LSHY2WlcwWjFrWXVMeCtoYlF4eGRzNjd2blFxQlFVbGxYWkZnQng5czZSdA==",
+    "name": "Chatenois",
+    "coords": [
+      48.302732,
+      5.8336
+    ],
+    "icon": "https://lh3.googleusercontent.com/CkOOB0pki-e3-4JuHPqJaCAMnoi9QnJqZl--efv8T3B_N9_ARtqr_WiC7JtFqEtZaKorIUuHpyyBYv4k3-xwNQ=s30",
+    "waypoints": [
+      {
+        "name": "Chatenois-mairie",
+        "type": "hack",
+        "coords": [
+          48.302732,
+          5.8336
+        ]
+      },
+      {
+        "name": "Monument Chatenois",
+        "type": "hack",
+        "coords": [
+          48.303275,
+          5.832557
+        ]
+      },
+      {
+        "name": "Eglise De Chatenois",
+        "type": "hack",
+        "coords": [
+          48.301323,
+          5.832795
+        ]
+      },
+      {
+        "name": "Croix De Jésus De Châtenois",
+        "type": "hack",
+        "coords": [
+          48.300824,
+          5.832044
+        ]
+      },
+      {
+        "name": "Église St Martin",
+        "type": "hack",
+        "coords": [
+          48.310354,
+          5.776989
+        ]
+      },
+      {
+        "name": "Calvaire Rouvres",
+        "type": "hack",
+        "coords": [
+          48.307855,
+          5.774885
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "U1dSbEVKcTZyaXgzUlltYVlsVElaRXFPSXVWUzRmNlZWL2x1ZFlOQ2ZiVXloaVFyOW9qQVVBQ3lYWkVuOU9RSw==",
+    "name": "Chaumont",
+    "coords": [
+      48.109793,
+      5.134692
+    ],
+    "icon": "https://lh3.googleusercontent.com/Ewvy8YgIL3u2MziZ_T8gE7Krzr24UfNRu782W7XRaNlYuhpvYIn1g5wCkcw6F4eAWqngqiry6OhKYg_pALWO=s30",
+    "waypoints": [
+      {
+        "name": "Gare De Chaumont",
+        "type": "hack",
+        "coords": [
+          48.109793,
+          5.134692
+        ]
+      },
+      {
+        "name": "Chaumont - A La Mémoire De Agents De La Sncf Tués Par Faits De Guerre 1939 - 1945",
+        "type": "hack",
+        "coords": [
+          48.109716,
+          5.133863
+        ]
+      },
+      {
+        "name": "Chaumont - La Vierge Et L'enfant",
+        "type": "hack",
+        "coords": [
+          48.110015,
+          5.136899
+        ]
+      },
+      {
+        "name": "Théâtre Municipal",
+        "type": "hack",
+        "coords": [
+          48.110473,
+          5.137075
+        ]
+      },
+      {
+        "name": "Culture et Bibliothèque pour Tous",
+        "type": "hack",
+        "coords": [
+          48.110726,
+          5.137309
+        ]
+      },
+      {
+        "name": "Café Des Arts",
+        "type": "hack",
+        "coords": [
+          48.110901,
+          5.137243
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "MFBRdWpJaTBaQ1k0ZnF1bW1ZYUVSbXZtbUJmMnc0ZWRuZmJLVWhVYUJla1RMYUpBSml1MWFNb0oyMGg0cDdxYg==",
+    "name": "Chenevières",
+    "coords": [
+      48.521154,
+      6.626277
+    ],
+    "icon": "https://lh3.googleusercontent.com/zFZaTYK4iLhBhYonoHWAWPpfgXtJwjstU2PXLGHWKWg_JuU-3NXJst2hKAiFmYr1RRkS3cHax7fy38OXcz0=s30",
+    "waypoints": [
+      {
+        "name": "Croix De La Mission 1950 De Chenevieres ",
+        "type": "hack",
+        "coords": [
+          48.521154,
+          6.626277
+        ]
+      },
+      {
+        "name": "Le Moulin Du Canal De Chenevieres ",
+        "type": "hack",
+        "coords": [
+          48.520489,
+          6.624925
+        ]
+      },
+      {
+        "name": "Église De Chenevieres ",
+        "type": "hack",
+        "coords": [
+          48.516807,
+          6.630513
+        ]
+      },
+      {
+        "name": "Circuit De Chenevieres",
+        "type": "hack",
+        "coords": [
+          48.514017,
+          6.645084
+        ]
+      },
+      {
+        "name": "Chapelle de Ménil Flin",
+        "type": "hack",
+        "coords": [
+          48.502721,
+          6.659853
+        ]
+      },
+      {
+        "name": "Église de Flin",
+        "type": "hack",
+        "coords": [
+          48.497775,
+          6.65411
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "M2lrWWUya2p2aHF5RFF6QjlsaHh1b0VwTTZLREszWTNnVjFSZ3V6SEliZUpkNmFCMk9DS0p4OWxCNHNqV1dDTA==",
+    "name": "Commercy",
+    "coords": [
+      48.765806,
+      5.588591
+    ],
+    "icon": "https://lh3.googleusercontent.com/g7sL4g57fyetQ6wn066dHGvCptTtig0SEuKx4-b72E-UWBgaVR63Vt-bIVLKf1haJDvFk0IXV675isWB8b7A=s30",
+    "waypoints": [
+      {
+        "name": "Gare De Commercy",
+        "type": "hack",
+        "coords": [
+          48.765806,
+          5.588591
+        ]
+      },
+      {
+        "name": "statue de Don Calmet",
+        "type": "hack",
+        "coords": [
+          48.764268,
+          5.590645
+        ]
+      },
+      {
+        "name": "Fontaine Commercy",
+        "type": "hack",
+        "coords": [
+          48.764128,
+          5.59063
+        ]
+      },
+      {
+        "name": "Église Commercy",
+        "type": "hack",
+        "coords": [
+          48.763669,
+          5.591
+        ]
+      },
+      {
+        "name": "Cheval de Stanislas",
+        "type": "hack",
+        "coords": [
+          48.763048,
+          5.591929
+        ]
+      },
+      {
+        "name": "Statue Désespoir",
+        "type": "hack",
+        "coords": [
+          48.762792,
+          5.592247
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "WGRLK0FKTC9FRTVYSzE0Z0lvZ05yUWp1RlFLdkFtSUZjdEJXUGpNZzBNSk4zdWRTZ2tLcXdrREtweUxVbGNuSQ==",
+    "name": "Contrexéville",
+    "coords": [
+      48.179772,
+      5.890932
+    ],
+    "icon": "https://lh3.googleusercontent.com/nWEmKbUREbBivybl0j0YxLXrS_4qclb0UZVozLIRNzD6Iq5VJTyS1GfNch_V2TntlFKWczpW4Pa_N15PaCOB=s30",
+    "waypoints": [
+      {
+        "name": "Gare de Contrexéville",
+        "type": "hack",
+        "coords": [
+          48.179772,
+          5.890932
+        ]
+      },
+      {
+        "name": "Casino de Contrexéville",
+        "type": "hack",
+        "coords": [
+          48.182064,
+          5.893005
+        ]
+      },
+      {
+        "name": "Contrex - Kiosque",
+        "type": "hack",
+        "coords": [
+          48.181812,
+          5.893672
+        ]
+      },
+      {
+        "name": "Galerie Thermale de Contrex",
+        "type": "hack",
+        "coords": [
+          48.181325,
+          5.894036
+        ]
+      },
+      {
+        "name": "Bibliothèque Municipale André Malraux",
+        "type": "hack",
+        "coords": [
+          48.180292,
+          5.896391
+        ]
+      },
+      {
+        "name": "Mairie de Contrex",
+        "type": "hack",
+        "coords": [
+          48.179986,
+          5.895086
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "REFlTUowZUczeEhhZGdoR3IwRUZ3UHFJOEk3QUtQTXAwME5WTVcwck9nZGl6OWtzSmtKc3R4K0dWREJJN2RCMA==",
+    "name": "Corcieux",
+    "coords": [
+      48.17266,
+      6.878541
+    ],
+    "icon": "https://lh3.googleusercontent.com/tGVFtr3Bx9UcV3KkCjHGSuE0Fb-t8EbKsdaPvWVa1HVQV6HaPt-Zw8uCE6nZn-dfLAagBBiXtds4ouw4t3m2=s30",
+    "waypoints": [
+      {
+        "name": "Mairie de Corcieux",
+        "type": "hack",
+        "coords": [
+          48.17266,
+          6.878541
+        ]
+      },
+      {
+        "name": "Church of Corcieux NTT",
+        "type": "hack",
+        "coords": [
+          48.172669,
+          6.88103
+        ]
+      },
+      {
+        "name": "World War 2 Memorial NTT",
+        "type": "hack",
+        "coords": [
+          48.172592,
+          6.881536
+        ]
+      },
+      {
+        "name": "Donkey Farm NTT",
+        "type": "hack",
+        "coords": [
+          48.171733,
+          6.87823
+        ]
+      },
+      {
+        "name": "Corcieux Cemetary NTT",
+        "type": "hack",
+        "coords": [
+          48.17114,
+          6.879509
+        ]
+      },
+      {
+        "name": "Les Bans Historic Mural NTT",
+        "type": "hack",
+        "coords": [
+          48.169085,
+          6.880124
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "TTJHRWxDaFlhODRaSy9rdXdXYlZYWFZydGxuYzhOS0VtTFdxSkZLUG5zcVl3WExYaXFDcHFSL3B2YjVremRVQQ==",
+    "name": "Cornimont",
+    "coords": [
+      47.963735,
+      6.838365
+    ],
+    "icon": "https://lh3.googleusercontent.com/F9pM32Q5gMe9P5dqwbeLDOBROhvJCXMMsLlZlb1ddk47pI9Byk-c9-G7TooDWrwZk9kXUoO0zcPx9LGFL3U7=s30",
+    "waypoints": [
+      {
+        "name": "Fresque",
+        "type": "hack",
+        "coords": [
+          47.963735,
+          6.838365
+        ]
+      },
+      {
+        "name": "Monument A Jean Joseph Petitgenet",
+        "type": "hack",
+        "coords": [
+          47.963504,
+          6.838916
+        ]
+      },
+      {
+        "name": "monument au mort",
+        "type": "hack",
+        "coords": [
+          47.963125,
+          6.838168
+        ]
+      },
+      {
+        "name": "Cornimont - Église",
+        "type": "hack",
+        "coords": [
+          47.963149,
+          6.837116
+        ]
+      },
+      {
+        "name": "Cornimont - Office Du Tourisme",
+        "type": "hack",
+        "coords": [
+          47.962154,
+          6.837453
+        ]
+      },
+      {
+        "name": "Bibliothèque De Cornimont",
+        "type": "hack",
+        "coords": [
+          47.962784,
+          6.837997
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "RnU2Mjc2WkdVZTNTMTBRa1JQZENVcnB2YU9hNXEreFArcUZscGdkK2NFV2FLaFRNWHRkTWJYOXhBUjRBaWI4Sw==",
+    "name": "Corny-sur-Moselle",
+    "coords": [
+      49.033005,
+      6.058757
+    ],
+    "icon": "https://lh3.googleusercontent.com/n6kNMVsy9HaAEPj837TfyaTVuCJ_1hjDxLE9RqETklTECYm6QRrVmbTK3Vo5JRP7JviReOsyjYwZg-UX9_ZX=s30",
+    "waypoints": [
+      {
+        "name": "Calvaire",
+        "type": "hack",
+        "coords": [
+          49.033005,
+          6.058757
+        ]
+      },
+      {
+        "name": "Corny, Calvaire",
+        "type": "hack",
+        "coords": [
+          49.034179,
+          6.059179
+        ]
+      },
+      {
+        "name": "Les Trois Cloches",
+        "type": "hack",
+        "coords": [
+          49.03458,
+          6.059269
+        ]
+      },
+      {
+        "name": "Corny, Rocher De La Vierge",
+        "type": "hack",
+        "coords": [
+          49.034798,
+          6.058825
+        ]
+      },
+      {
+        "name": "Corny, Monuments Aux Morts",
+        "type": "hack",
+        "coords": [
+          49.035057,
+          6.058364
+        ]
+      },
+      {
+        "name": "Corny, Sculpture En Bois",
+        "type": "hack",
+        "coords": [
+          49.036879,
+          6.061845
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "Z3U5bE1rR1pQbDhqanhlNjBFV2tjNEF6N3BxOUVCRTJWNXJLOVhDcjVzUWlWc1VLS0lkenQxNWVrL09GRWx0bQ==",
+    "name": "Crevic",
+    "coords": [
+      48.638914,
+      6.400627
+    ],
+    "icon": "https://lh3.googleusercontent.com/_-F3rIRPVoex51DsRRulRZ3hHO1uO6Fg3nhvimmqDb7vyO602BYhv1CfRDdMoPob5fQmDiCmx6jxsNJRF0d-EA=s30",
+    "waypoints": [
+      {
+        "name": "Couple En Pierre",
+        "type": "hack",
+        "coords": [
+          48.638914,
+          6.400627
+        ]
+      },
+      {
+        "name": "Calvaire",
+        "type": "hack",
+        "coords": [
+          48.639053,
+          6.402074
+        ]
+      },
+      {
+        "name": "Croix Fleurie",
+        "type": "hack",
+        "coords": [
+          48.639252,
+          6.402418
+        ]
+      },
+      {
+        "name": "Bibliothèque",
+        "type": "hack",
+        "coords": [
+          48.639382,
+          6.403694
+        ]
+      },
+      {
+        "name": "Église De Crevic",
+        "type": "hack",
+        "coords": [
+          48.639384,
+          6.404307
+        ]
+      },
+      {
+        "name": "Monument aux Morts",
+        "type": "hack",
+        "coords": [
+          48.639503,
+          6.404388
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "WDRHS0hPem5XbVJkWHFNT2pyYUZOWGJxS1hBVUxobmRiSEI1R2QwVW9DWXNQRkxnRENQSFZ1NmtXMFNqTkRyUA==",
+    "name": "Deyvillers",
+    "coords": [
+      48.201603,
+      6.513541
+    ],
+    "icon": "https://lh3.googleusercontent.com/PJWMlKvlnVzKv4dzOwk0wyHF73WYX7kOF1InCjFaDWtGRio9kzJyFY_yl3k8DbhOUZh79BXGsm6G_DfFSPnq=s30",
+    "waypoints": [
+      {
+        "name": "Fontaine Publique",
+        "type": "hack",
+        "coords": [
+          48.201603,
+          6.513541
+        ]
+      },
+      {
+        "name": "Église De Devillers ",
+        "type": "hack",
+        "coords": [
+          48.20159,
+          6.513817
+        ]
+      },
+      {
+        "name": "Église De Deyvillers",
+        "type": "hack",
+        "coords": [
+          48.201637,
+          6.514123
+        ]
+      },
+      {
+        "name": "Monument Aux Morts De Deyvillers",
+        "type": "hack",
+        "coords": [
+          48.201482,
+          6.513711
+        ]
+      },
+      {
+        "name": "Fresque Murale",
+        "type": "hack",
+        "coords": [
+          48.199761,
+          6.514452
+        ]
+      },
+      {
+        "name": "Calvaire De Deyvillers",
+        "type": "hack",
+        "coords": [
+          48.199669,
+          6.516882
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "enFSeGJYQU9uNSs2OGphSXFwczdEUld0bW90YmNNY0tIQ0NLZ2lobE9zWFk0VDJZT0Z3SXRYY1hKRDduUVVxMQ==",
+    "name": "Eloyes",
+    "coords": [
+      48.092999,
+      6.612134
+    ],
+    "icon": "https://lh3.googleusercontent.com/3RWE1gY9pcqZXLv0FBxe4BAuue10m5vwlS_cx7Ez5aaFkmtOY2nskuiD3Y0wmpV7MqO-Ls28APOGWuCg9TPW=s30",
+    "waypoints": [
+      {
+        "name": "Croix De Relanchâtel",
+        "type": "hack",
+        "coords": [
+          48.092999,
+          6.612134
+        ]
+      },
+      {
+        "name": "Mairie d'Eloyes",
+        "type": "hack",
+        "coords": [
+          48.09286,
+          6.611648
+        ]
+      },
+      {
+        "name": "Club Culturel Et Musée D'Éloyes",
+        "type": "hack",
+        "coords": [
+          48.092934,
+          6.610546
+        ]
+      },
+      {
+        "name": "Mémorial Pour Les Enfants D'Éloyes",
+        "type": "hack",
+        "coords": [
+          48.091792,
+          6.61068
+        ]
+      },
+      {
+        "name": "Trois Fresques ",
+        "type": "hack",
+        "coords": [
+          48.087661,
+          6.601018
+        ]
+      },
+      {
+        "name": "Gare D'Eloyes",
+        "type": "hack",
+        "coords": [
+          48.087049,
+          6.600045
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "cldTd2k2K0VUN201MzdvN01TZ2Y3WlFFdkxOODdPL3ZYeERacm9tcm1HVks3dzZlZVpBd1RvaEd4YVFkNkpleg==",
+    "name": "Epinal",
+    "coords": [
+      48.177973,
+      6.441742
+    ],
+    "icon": "https://lh3.googleusercontent.com/KAScCpxBwQqr9CyWeJmyakXw9ZHXg0RDcyIh3Glesmm9RxX5WrIO-M9zf9NGsewp7_H05O_XCCrPdYZYmmLF=s30",
+    "waypoints": [
+      {
+        "name": "Gare d'Épinal",
+        "type": "hack",
+        "coords": [
+          48.177973,
+          6.441742
+        ]
+      },
+      {
+        "name": "La Poste Centrale D'Epinal",
+        "type": "hack",
+        "coords": [
+          48.177006,
+          6.44468
+        ]
+      },
+      {
+        "name": "La Coupole",
+        "type": "hack",
+        "coords": [
+          48.17591,
+          6.447413
+        ]
+      },
+      {
+        "name": "Epinal, Obélisque",
+        "type": "hack",
+        "coords": [
+          48.175731,
+          6.449846
+        ]
+      },
+      {
+        "name": "Les Alliances ",
+        "type": "hack",
+        "coords": [
+          48.17537,
+          6.448144
+        ]
+      },
+      {
+        "name": "Mairie D'Epinal",
+        "type": "hack",
+        "coords": [
+          48.175349,
+          6.450717
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "VVNGRVc0ODRBZWNCWitDVDZNT3FYQkVUT25IWnBXVEFQcFpZRCt4dFlMcWM5UzVIWkVTOVBGVk93R1NMekIyTw==",
+    "name": "Fellering",
+    "coords": [
+      47.896902,
+      6.985858
+    ],
+    "icon": "https://lh3.googleusercontent.com/q67VHdHhN54ChjPnHuAnE9JMk0YyWFZtAFSFKYbJaGecz2B_1iyJkc4E1jom4ScQdSSmzU7Q3sJr_uOyhdU=s30",
+    "waypoints": [
+      {
+        "name": "Monument aux Morts",
+        "type": "hack",
+        "coords": [
+          47.896902,
+          6.985858
+        ]
+      },
+      {
+        "name": "Église St Antoine",
+        "type": "hack",
+        "coords": [
+          47.896691,
+          6.986007
+        ]
+      },
+      {
+        "name": "Les Deux",
+        "type": "hack",
+        "coords": [
+          47.896878,
+          6.984902
+        ]
+      },
+      {
+        "name": "La Fontaine",
+        "type": "hack",
+        "coords": [
+          47.896756,
+          6.985601
+        ]
+      },
+      {
+        "name": "La Poste De Fellering",
+        "type": "hack",
+        "coords": [
+          47.896102,
+          6.986008
+        ]
+      },
+      {
+        "name": "Mairie",
+        "type": "hack",
+        "coords": [
+          47.896107,
+          6.986546
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "KzdFQlNUMDdlYWJLUEtWTnNUblhld3piMVZVYndMcktkNy9WbERya2VWa3A4MGdRSkhIdk9OcGJLZXB0M1R0Sw==",
+    "name": "Florémont",
+    "coords": [
+      48.364222,
+      6.257962
+    ],
+    "icon": "https://lh3.googleusercontent.com/X2IjafBs3jyp-rTvG1r9WyoONWyRl41-dr6A8z_FSHsQbwINTEl0nFnt72_HYaZa8fXjsMj9IMbrTrXozis=s30",
+    "waypoints": [
+      {
+        "name": "Croix De Floremont",
+        "type": "hack",
+        "coords": [
+          48.364222,
+          6.257962
+        ]
+      },
+      {
+        "name": "Floremont - Mairie",
+        "type": "hack",
+        "coords": [
+          48.365145,
+          6.257032
+        ]
+      },
+      {
+        "name": "Fontaine Fleurie _ Floremont",
+        "type": "hack",
+        "coords": [
+          48.36659,
+          6.254307
+        ]
+      },
+      {
+        "name": "Floremont - Église",
+        "type": "hack",
+        "coords": [
+          48.367119,
+          6.254479
+        ]
+      },
+      {
+        "name": "Floremont _ Jésus Sur Sa Croix",
+        "type": "hack",
+        "coords": [
+          48.367461,
+          6.253379
+        ]
+      },
+      {
+        "name": "Floremont - Ancienne Fontaine",
+        "type": "hack",
+        "coords": [
+          48.366598,
+          6.253098
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "OU5sUUVGZUw4YjkyUWc4YWlua1VyamtVOFRwdmd4bXVUeEpadmV5MFhpZnZ2L3dVTzdsU1RzeUd1SFBieHZKcQ==",
+    "name": "Fraize",
+    "coords": [
+      48.185094,
+      7.002313
+    ],
+    "icon": "https://lh3.googleusercontent.com/C4MD0u6PAgvMLVBjCD_2Zz4Gc3HY8EybF5pumOuxlAG_24rgRfTno7GSiRNJmaomO-0HOpOjilAQZEOHwnWJ=s30",
+    "waypoints": [
+      {
+        "name": "Hôtel De Ville, Fraize",
+        "type": "hack",
+        "coords": [
+          48.185094,
+          7.002313
+        ]
+      },
+      {
+        "name": "La Poste",
+        "type": "hack",
+        "coords": [
+          48.186759,
+          7.002617
+        ]
+      },
+      {
+        "name": "Fraize - Monument Aux Morts 1914-1918",
+        "type": "hack",
+        "coords": [
+          48.186931,
+          6.999959
+        ]
+      },
+      {
+        "name": "Monument Aux Morts 1914-1918 Du Cimetière, Fraize",
+        "type": "hack",
+        "coords": [
+          48.187553,
+          6.999307
+        ]
+      },
+      {
+        "name": "Fraize - Église St Blaise",
+        "type": "hack",
+        "coords": [
+          48.187342,
+          6.997771
+        ]
+      },
+      {
+        "name": "Art Mural, Façade Peinte, Ecole Communale, Fraize",
+        "type": "hack",
+        "coords": [
+          48.187692,
+          6.996947
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "YWU5RkY4T005MzBoMFV6b1Z0RTFzK29MNi81VU5FNk53UU55WUI5NlJSQlFHWTZpWWV5RStuK0tiZWFod2RadA==",
+    "name": "Golbey",
+    "coords": [
+      48.185382,
+      6.423006
+    ],
+    "icon": "https://lh3.googleusercontent.com/GOcmS0UBB5IrcBMwEfTrY9TQY2oU0R978AxojAJoQvumDyrBGL_62hKDv6SQN4c2Z6c4B7jGrgnx3OQHsNXY=s30",
+    "waypoints": [
+      {
+        "name": "Chateau D'eau De Golbey",
+        "type": "hack",
+        "coords": [
+          48.185382,
+          6.423006
+        ]
+      },
+      {
+        "name": "Ancienne Boussole",
+        "type": "hack",
+        "coords": [
+          48.194663,
+          6.432228
+        ]
+      },
+      {
+        "name": "Église De Golbey",
+        "type": "hack",
+        "coords": [
+          48.197427,
+          6.439335
+        ]
+      },
+      {
+        "name": "Monument Aux Morts Golbey",
+        "type": "hack",
+        "coords": [
+          48.197774,
+          6.440736
+        ]
+      },
+      {
+        "name": "Trok Var",
+        "type": "hack",
+        "coords": [
+          48.199815,
+          6.451509
+        ]
+      },
+      {
+        "name": "Sculpture Du Port",
+        "type": "hack",
+        "coords": [
+          48.186843,
+          6.443724
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "WDFmc3V6TFFZaDQwTTBGSW02cWpqU1N2Y3hFbmwvc2VRMUdDTitQbGdib3NCYWMrRzh2dXhjUThKMlVkeVZEYw==",
+    "name": "Grandfontaine",
+    "coords": [
+      48.506281,
+      7.144048
+    ],
+    "icon": "https://lh3.googleusercontent.com/k4aQC9fcCsupNNvcXZJ0aphPj-s89gSfoleQa-jXYYnDSKSYAEswNg2nVujEps40uglR_UoxjIoFR_Ea2L6Q=s30",
+    "waypoints": [
+      {
+        "name": "Carte Des Sites De Découvertes De La Haute Vallée De La Bruche ",
+        "type": "hack",
+        "coords": [
+          48.506281,
+          7.144048
+        ]
+      },
+      {
+        "name": "Colonne",
+        "type": "hack",
+        "coords": [
+          48.506381,
+          7.144317
+        ]
+      },
+      {
+        "name": "Chemin Des Sarrasins ",
+        "type": "hack",
+        "coords": [
+          48.510284,
+          7.162333
+        ]
+      },
+      {
+        "name": "Stelen Du Donon",
+        "type": "hack",
+        "coords": [
+          48.510524,
+          7.162031
+        ]
+      },
+      {
+        "name": "Sarcofage Mercure ",
+        "type": "hack",
+        "coords": [
+          48.510664,
+          7.162173
+        ]
+      },
+      {
+        "name": "Citerne Du Donon",
+        "type": "hack",
+        "coords": [
+          48.511324,
+          7.162282
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "SmRkazJXSE5KbHlhdlJGSGVnYVBvUDQ5UnlwZWJxejhySTRCL2FnL2FGRFZVRWFNUU9zZktBdk1XdEV0V2Iydg==",
+    "name": "Granges sur Vologne",
+    "coords": [
+      48.145205,
+      6.790375
+    ],
+    "icon": "https://lh3.googleusercontent.com/JOkxaRLViNToR-1V4CSJcqeKFVZtI_ToTSAcZfrrXzGc_ejtNA17qP6D5giJPteLkvjciayAr0zV9LzU-lo=s30",
+    "waypoints": [
+      {
+        "name": "Place Des Combattants D'Indochine",
+        "type": "hack",
+        "coords": [
+          48.145205,
+          6.790375
+        ]
+      },
+      {
+        "name": "A Ses Heroïques Enfants",
+        "type": "hack",
+        "coords": [
+          48.144943,
+          6.789321
+        ]
+      },
+      {
+        "name": "Eglise De Granges Sur Vologne",
+        "type": "hack",
+        "coords": [
+          48.145119,
+          6.789428
+        ]
+      },
+      {
+        "name": "Fountain Des Fetes ",
+        "type": "hack",
+        "coords": [
+          48.143119,
+          6.792228
+        ]
+      },
+      {
+        "name": "Etienne Joseph Seitz",
+        "type": "hack",
+        "coords": [
+          48.142523,
+          6.793368
+        ]
+      },
+      {
+        "name": "Le Kiosque En Musique",
+        "type": "hack",
+        "coords": [
+          48.142349,
+          6.793706
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "bmpyb1JHWDlDK2tZdWxQMXhhVVozVjJQZEFLVVB1Y0o4YzBQMm9wVXRzWGZwNmlwdGV3R1FHQWNvSFYwdXN2UA==",
+    "name": "Gripport",
+    "coords": [
+      48.414875,
+      6.252144
+    ],
+    "icon": "https://lh3.googleusercontent.com/d3BVXaKEQ-vFy3ql-AuvK3vUPXa8rn6UHIEIAx2XRTXj8s6HHk3sjX2737X7NG1f7XlVvpIoPWBgAvLeF8GuOA=s30",
+    "waypoints": [
+      {
+        "name": "Panneau D'information Gripport",
+        "type": "hack",
+        "coords": [
+          48.414875,
+          6.252144
+        ]
+      },
+      {
+        "name": "Monument Aux Morts _ Gripport",
+        "type": "hack",
+        "coords": [
+          48.415561,
+          6.251717
+        ]
+      },
+      {
+        "name": "Mairie De Gripport",
+        "type": "hack",
+        "coords": [
+          48.415337,
+          6.250123
+        ]
+      },
+      {
+        "name": "Eglise De Gripport",
+        "type": "hack",
+        "coords": [
+          48.416006,
+          6.251997
+        ]
+      },
+      {
+        "name": "Xirocourt - Autel de la Vierge éplorée",
+        "type": "hack",
+        "coords": [
+          48.42999,
+          6.169075
+        ]
+      },
+      {
+        "name": "Xirocourt - Croix",
+        "type": "hack",
+        "coords": [
+          48.430225,
+          6.170313
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "a01OOGlCWnM2aUxZaldkakJFaWQyZ3RiS1piN283eU1mbkVjVy9nTys3eUtKZUhEZzRERGp1eUxhYkV6eUZjRw==",
+    "name": "Haroué",
+    "coords": [
+      48.468187,
+      6.182309
+    ],
+    "icon": "https://lh3.googleusercontent.com/uyVLZ6iYLSc9A4SpmCnSU4kR-VbGcM0e3EOF0TrpBBUX7tdrUZDXqLtSqRLYxUuQx75BWkOBf7YfZ7uz9dE=s30",
+    "waypoints": [
+      {
+        "name": "Monument Aux Morts Haroué",
+        "type": "hack",
+        "coords": [
+          48.468187,
+          6.182309
+        ]
+      },
+      {
+        "name": "Église D'Haroué",
+        "type": "hack",
+        "coords": [
+          48.466981,
+          6.179456
+        ]
+      },
+      {
+        "name": "Aire de jeux d'Haroué ",
+        "type": "hack",
+        "coords": [
+          48.466881,
+          6.178497
+        ]
+      },
+      {
+        "name": "Statue François De Bassompierre Haroué",
+        "type": "hack",
+        "coords": [
+          48.466901,
+          6.178769
+        ]
+      },
+      {
+        "name": "Haroué - La Poste",
+        "type": "hack",
+        "coords": [
+          48.467989,
+          6.17801
+        ]
+      },
+      {
+        "name": "Saint Dans une Niche ",
+        "type": "hack",
+        "coords": [
+          48.469129,
+          6.17634
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "TDlqZ3ZvMDNhQlJBdkpmbm1WejdkRHNkT0k2STliOGFTMWNEWGRPSE1hVHB5NmVrN3pQQjdZZ2ZkVUxWVVVhTQ==",
+    "name": "Hattigny",
+    "coords": [
+      48.61893,
+      6.983502
+    ],
+    "icon": "https://lh3.googleusercontent.com/6UnxNt9jPJtDK64do8gveh6ldjimOfoQ6MUOLStr1nYe1bgniwj4HXxKjp6xBtsZ68xX99WT9PxUjhfIREAi=s30",
+    "waypoints": [
+      {
+        "name": "Le Moustachu",
+        "type": "hack",
+        "coords": [
+          48.61893,
+          6.983502
+        ]
+      },
+      {
+        "name": "Le Moulin Jaune",
+        "type": "hack",
+        "coords": [
+          48.618022,
+          6.981528
+        ]
+      },
+      {
+        "name": "Vache Sur Le Toit",
+        "type": "hack",
+        "coords": [
+          48.618218,
+          6.981236
+        ]
+      },
+      {
+        "name": "Auré La Biquette ",
+        "type": "hack",
+        "coords": [
+          48.617605,
+          6.981408
+        ]
+      },
+      {
+        "name": "Tracto Marc",
+        "type": "hack",
+        "coords": [
+          48.617638,
+          6.981039
+        ]
+      },
+      {
+        "name": "Vache de Bois",
+        "type": "hack",
+        "coords": [
+          48.617431,
+          6.981281
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "OTkzRHpJNjV1djR4RDVQclRpZzBOLzA3cUdLUmE4Um1GQXNrUFd5aDRGVDZ5NlRhN0pwTmd2dFBjcDJIU0Fpcg==",
+    "name": "Houdreville",
+    "coords": [
+      48.508395,
+      6.101506
+    ],
+    "icon": "https://lh3.googleusercontent.com/BFwRYWmuZLxDrSj3aJzLn9diOSct7463OwlTowyFojrlRiwQ88qEXkbxnRzGsn6By2t1P_p9_9YACdGjpwaUpQ=s30",
+    "waypoints": [
+      {
+        "name": "Croix D Houdreville ",
+        "type": "hack",
+        "coords": [
+          48.508395,
+          6.101506
+        ]
+      },
+      {
+        "name": "Monument aux morts Houdreville",
+        "type": "hack",
+        "coords": [
+          48.507255,
+          6.103295
+        ]
+      },
+      {
+        "name": "Houdreville - Croix De Mission",
+        "type": "hack",
+        "coords": [
+          48.505917,
+          6.100777
+        ]
+      },
+      {
+        "name": "Chapelle Houdreville",
+        "type": "hack",
+        "coords": [
+          48.501348,
+          6.096998
+        ]
+      },
+      {
+        "name": "Souvenir Français Vézelise",
+        "type": "hack",
+        "coords": [
+          48.488397,
+          6.092639
+        ]
+      },
+      {
+        "name": "Statue Du Satyre Vézelise",
+        "type": "hack",
+        "coords": [
+          48.487511,
+          6.089312
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "d0FsUG5jdDFJOFlZc0ViVkdzNUFJZzlvRVpmbm9OU3Z5Q0JVaXRqcnlZRnVndXZKTXRxbkxJUkRqbDBURzlHTA==",
+    "name": "Jarville",
+    "coords": [
+      48.673582,
+      6.202396
+    ],
+    "icon": "https://lh3.googleusercontent.com/XjAxql-JrR0jvz_d_0wsqYB1m1TXy9XsiC6Eioo5UJ_lWt9gXUdCs-VPbcwssOA1CX3E4V9VaS9DRq8Nvb7E=s30",
+    "waypoints": [
+      {
+        "name": "Jarville - Mairie",
+        "type": "hack",
+        "coords": [
+          48.673582,
+          6.202396
+        ]
+      },
+      {
+        "name": "Jarville - Post Office",
+        "type": "hack",
+        "coords": [
+          48.670499,
+          6.206016
+        ]
+      },
+      {
+        "name": "Jarville à ses enfants ",
+        "type": "hack",
+        "coords": [
+          48.669138,
+          6.20719
+        ]
+      },
+      {
+        "name": "Jarville - Église Du Sacré Cœur ",
+        "type": "hack",
+        "coords": [
+          48.668925,
+          6.207311
+        ]
+      },
+      {
+        "name": "Jarville - La Musique Adoucit Les Mœurs ",
+        "type": "hack",
+        "coords": [
+          48.668595,
+          6.207196
+        ]
+      },
+      {
+        "name": "Jarville - Fresque Black Power",
+        "type": "hack",
+        "coords": [
+          48.668496,
+          6.206757
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "UCsyMmdoQXZlencyRCtRYXRBVXE1MG81dXk1NHQ4NlRvYkxJcSt4ZlZNM0Q5cHgrQU80UnFOMzMwTWYwQzlpaw==",
+    "name": "Joigny",
+    "coords": [
+      47.980437,
+      3.393694
+    ],
+    "icon": "https://lh3.googleusercontent.com/UdDDl52mAUIU61CU0rtMqmqS8ifGQgS5N5vjEWIkw7OJP_HQOdSDIXRqLquS9dAIO9d4qRCDJDB97nyf1o6odw=s30",
+    "waypoints": [
+      {
+        "name": "Monument Aux Morts",
+        "type": "hack",
+        "coords": [
+          47.980437,
+          3.393694
+        ]
+      },
+      {
+        "name": "Pont de Joigny",
+        "type": "hack",
+        "coords": [
+          47.980475,
+          3.395226
+        ]
+      },
+      {
+        "name": "Au Duc De Bourgogne",
+        "type": "hack",
+        "coords": [
+          47.981982,
+          3.394716
+        ]
+      },
+      {
+        "name": "Office De Tourisme Joigny",
+        "type": "hack",
+        "coords": [
+          47.98177,
+          3.396283
+        ]
+      },
+      {
+        "name": "Halles Du Marché ",
+        "type": "hack",
+        "coords": [
+          47.980967,
+          3.397981
+        ]
+      },
+      {
+        "name": "Hotel De Ville Joigny",
+        "type": "hack",
+        "coords": [
+          47.980982,
+          3.399442
+        ]
+      },
+      {
+        "name": "Eglise Saint André",
+        "type": "hack",
+        "coords": [
+          47.982423,
+          3.400819
+        ]
+      },
+      {
+        "name": "Palais De Justice",
+        "type": "hack",
+        "coords": [
+          47.982674,
+          3.400703
+        ]
+      },
+      {
+        "name": "Chateau De Joigny",
+        "type": "hack",
+        "coords": [
+          47.982516,
+          3.398448
+        ]
+      },
+      {
+        "name": "Eglise Saint Jean",
+        "type": "hack",
+        "coords": [
+          47.982758,
+          3.398017
+        ]
+      },
+      {
+        "name": "Maison de l'Arbre de Jesse",
+        "type": "hack",
+        "coords": [
+          47.983166,
+          3.396075
+        ]
+      },
+      {
+        "name": "Porte Du Bois",
+        "type": "hack",
+        "coords": [
+          47.984768,
+          3.396156
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "aEtzWG1lYW1YbEI3WEF6MzR1MEhuT3F1KzBlSWRieTFMeHBHampOdldKQURhaFFRVnhmZnVnUCtHTG1Ec3dkNQ==",
+    "name": "La Bresse",
+    "coords": [
+      48.003051,
+      6.873932
+    ],
+    "icon": "https://lh3.googleusercontent.com/RyJ0MNFFIKViq-2MCob0y-7SBHd5m5c7SRfmunlHuw8ZBUZaU-1qXbnKMn2qCxL4m4iXUVQ8uGWKH6vYjYZlVg=s30",
+    "waypoints": [
+      {
+        "name": "Steen Met Circel",
+        "type": "hack",
+        "coords": [
+          48.003051,
+          6.873932
+        ]
+      },
+      {
+        "name": "Post Office ",
+        "type": "hack",
+        "coords": [
+          48.003691,
+          6.873656
+        ]
+      },
+      {
+        "name": "Town Hall La Bresse",
+        "type": "hack",
+        "coords": [
+          48.003834,
+          6.873705
+        ]
+      },
+      {
+        "name": "La Bresse Fontein",
+        "type": "hack",
+        "coords": [
+          48.003753,
+          6.873999
+        ]
+      },
+      {
+        "name": "Fish Fountain",
+        "type": "hack",
+        "coords": [
+          48.003821,
+          6.874167
+        ]
+      },
+      {
+        "name": "Plaque En Memoire De Remy Et Gehin",
+        "type": "hack",
+        "coords": [
+          48.003879,
+          6.874224
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "OVVSMldudWo0MmdqRkEzMlg3U3dScmJCL0k3ejVweUlKbHNlNlNzcTJaWUtjdTJaTjVRRjhLSG5oaCtVWmNBdA==",
+    "name": "La Clusaz - Haute Savoie",
+    "coords": [
+      45.906324,
+      6.427681
+    ],
+    "icon": "https://lh3.googleusercontent.com/6Qh-r2kC0L2323j9SQCzMpKsaFd3esegQy34VMzRqizUCxxS17EGMZoCnhHl7rlyn6wc64OTH0wh0IEPpv-q8w=s30",
+    "waypoints": [
+      {
+        "name": "Vache La Fruitiere",
+        "type": "hack",
+        "coords": [
+          45.906324,
+          6.427681
+        ]
+      },
+      {
+        "name": "Roulotte De La Clusaz",
+        "type": "hack",
+        "coords": [
+          45.905701,
+          6.426374
+        ]
+      },
+      {
+        "name": "Cimetiere 1985",
+        "type": "hack",
+        "coords": [
+          45.905476,
+          6.426019
+        ]
+      },
+      {
+        "name": "La Clusaz - Musée Du Ski ",
+        "type": "capture",
+        "coords": [
+          45.905032,
+          6.42568
+        ]
+      },
+      {
+        "name": "Place de l'Eglise",
+        "type": "hack",
+        "coords": [
+          45.904736,
+          6.42425
+        ]
+      },
+      {
+        "name": "Mairie",
+        "type": "hack",
+        "coords": [
+          45.904709,
+          6.423488
+        ]
+      },
+      {
+        "name": "Coeur Du Village",
+        "type": "hack",
+        "coords": [
+          45.904639,
+          6.422416
+        ]
+      },
+      {
+        "name": "Mission De 1870",
+        "type": "hack",
+        "coords": [
+          45.905738,
+          6.42146
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "U1Y5cGVHdG1Wa0ZORytWOGpzcEN4NE5OaTVCWnhXK3l5RkdsODdlQ3IxYkMzZnZHQW9wQjN5OVRJQUVjZEQzOA==",
+    "name": "Laneuveville - Jarville",
+    "coords": [
+      48.650957,
+      6.236442
+    ],
+    "icon": "https://lh3.googleusercontent.com/msXpcBh7jgTkU80w232bZYpwRb-jg8zI-4BxHMMerW8CdQ_NXOeej2MdjBfPh2A7rxCLCQWXvPXKCHws9Z4=s30",
+    "waypoints": [
+      {
+        "name": "Monument Aux Morts",
+        "type": "hack",
+        "coords": [
+          48.650957,
+          6.236442
+        ]
+      },
+      {
+        "name": "Église de Laneuveville",
+        "type": "hack",
+        "coords": [
+          48.657122,
+          6.230942
+        ]
+      },
+      {
+        "name": "Fontaine sud du parc de Montaigu",
+        "type": "hack",
+        "coords": [
+          48.662428,
+          6.216852
+        ]
+      },
+      {
+        "name": "Chapelle Du Parc De Montaigu Jarville ",
+        "type": "hack",
+        "coords": [
+          48.663062,
+          6.214411
+        ]
+      },
+      {
+        "name": "Château De Montaigu Laneuveville",
+        "type": "hack",
+        "coords": [
+          48.663408,
+          6.215738
+        ]
+      },
+      {
+        "name": "Musée De L'histoire Du Fer Jarville ",
+        "type": "hack",
+        "coords": [
+          48.666741,
+          6.208823
+        ]
+      },
+      {
+        "name": "Jarville - Église Du Sacré Cœur ",
+        "type": "hack",
+        "coords": [
+          48.668925,
+          6.207311
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "SmJmdXliVzFPenRLbDdtczFHb1pKdUloemFDQ3dMblE1WlcvR3JjWXl1WFJpYk10OThYdExCLzFwd3VXaCtRUQ==",
+    "name": "Laneuveville devant Bayon",
+    "coords": [
+      48.471208,
+      6.266316
+    ],
+    "icon": "https://lh3.googleusercontent.com/0JoW3rd4AAxhmcEbvUYMFrG_s905zf9s62Lm8aiqbxyfhzeCdrUCuiyyQW72PnPV6DwcV-C4jADSyUcGXOUG=s30",
+    "waypoints": [
+      {
+        "name": "Mairie De Laneuveville Devant Bayon",
+        "type": "hack",
+        "coords": [
+          48.471208,
+          6.266316
+        ]
+      },
+      {
+        "name": "Stèle Georges Moleon",
+        "type": "hack",
+        "coords": [
+          48.470093,
+          6.263579
+        ]
+      },
+      {
+        "name": "Jésus Sur Sa Croix",
+        "type": "hack",
+        "coords": [
+          48.470003,
+          6.263276
+        ]
+      },
+      {
+        "name": "Lavoir de Laneuveville devant Bayon ",
+        "type": "hack",
+        "coords": [
+          48.471182,
+          6.26673
+        ]
+      },
+      {
+        "name": "Vierge De Roville Devant Bayon",
+        "type": "hack",
+        "coords": [
+          48.469688,
+          6.294023
+        ]
+      },
+      {
+        "name": "Statue Mathieu De Dombasle",
+        "type": "hack",
+        "coords": [
+          48.467105,
+          6.291329
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "WkZGVHppVmgzRkw5aEtsMkMvcXhtU2NzQkJpQXFmVWFmNUdjWDhGNnJhc0tnSnZLTFZzdlBMK2dORUwzNzNHSA==",
+    "name": "Laneuveville devant Nancy",
+    "coords": [
+      48.659782,
+      6.226838
+    ],
+    "icon": "https://lh3.googleusercontent.com/VAQtRH54rrAHvP-K_FOvLOC7RjJ7qlu3AezBtl4S813a3dwNguSJvKoYeG_Vo52Z0WvCNKqnNvJps4ZLuMQ=s30",
+    "waypoints": [
+      {
+        "name": "Laneuveville - Ancienne cartonnerie",
+        "type": "hack",
+        "coords": [
+          48.659782,
+          6.226838
+        ]
+      },
+      {
+        "name": "Laneuveville - Écluse ",
+        "type": "hack",
+        "coords": [
+          48.659411,
+          6.231552
+        ]
+      },
+      {
+        "name": "Laneuveville - « Je Vous Salue Marie »",
+        "type": "hack",
+        "coords": [
+          48.658844,
+          6.229832
+        ]
+      },
+      {
+        "name": "Hotel De Ville",
+        "type": "hack",
+        "coords": [
+          48.656193,
+          6.231386
+        ]
+      },
+      {
+        "name": "Laneuveville - Place Auerbach",
+        "type": "hack",
+        "coords": [
+          48.65691,
+          6.230716
+        ]
+      },
+      {
+        "name": "Église de Laneuveville",
+        "type": "hack",
+        "coords": [
+          48.657122,
+          6.230942
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "RU41TzQzQXFJZGlwa01BNWtoN1pVWURSQ2xIdGFYZzhvWUZlUC9hWndzUEpJL3NmSmdGT0VXazZmektlNGI0ZQ==",
+    "name": "Le chinaillon",
+    "coords": [
+      45.956604,
+      6.439998
+    ],
+    "icon": "https://lh3.googleusercontent.com/D9bjq8yl6IdIMY3l5SG5nyPNF3OyWL2MAlQxDyzuztm5Xc5w9k3HfDADqPk9naNhBxpNGQZLrG7iEh3WT1U=s30",
+    "waypoints": [
+      {
+        "name": "Le CHINAILLON décors Montagnard ",
+        "type": "hack",
+        "coords": [
+          45.956604,
+          6.439998
+        ]
+      },
+      {
+        "name": "Maison Du Tourisme",
+        "type": "hack",
+        "coords": [
+          45.973606,
+          6.454266
+        ]
+      },
+      {
+        "name": "Sentier DéCouverte Du Chinaillon",
+        "type": "hack",
+        "coords": [
+          45.973945,
+          6.45494
+        ]
+      },
+      {
+        "name": "Statut du Tremplin",
+        "type": "hack",
+        "coords": [
+          45.974154,
+          6.458377
+        ]
+      },
+      {
+        "name": "Télésiège Le Chatelet",
+        "type": "hack",
+        "coords": [
+          45.973527,
+          6.457656
+        ]
+      },
+      {
+        "name": "La Chapelle Du Chinaillon",
+        "type": "hack",
+        "coords": [
+          45.971701,
+          6.447945
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "SnhSQlZiL1pSMW9adVUzSUd2cGIzbUozNUpkSG9ZWnhSZklnTEZ0Y1hMbHBOZUFESjdmUHRZVXRUOVM1aHBFOQ==",
+    "name": "Le Grand Bornand",
+    "coords": [
+      45.942047,
+      6.426972
+    ],
+    "icon": "https://lh3.googleusercontent.com/oUbHhWVMGgDALyyVaMdTX2GtZKaJZoC8b3_C_1Y_k1LqKiGLugQbKykzAN85IRZJZ9yyWqxpcGpCS47vihPg=s30",
+    "waypoints": [
+      {
+        "name": "La Fontaine Vache",
+        "type": "hack",
+        "coords": [
+          45.942047,
+          6.426972
+        ]
+      },
+      {
+        "name": "Croix aux Épées",
+        "type": "hack",
+        "coords": [
+          45.942035,
+          6.427468
+        ]
+      },
+      {
+        "name": "Eglise Grand Bornand",
+        "type": "hack",
+        "coords": [
+          45.942079,
+          6.427727
+        ]
+      },
+      {
+        "name": "Maison Du Tourisme",
+        "type": "hack",
+        "coords": [
+          45.973606,
+          6.454266
+        ]
+      },
+      {
+        "name": "Sentier DéCouverte Du Chinaillon",
+        "type": "hack",
+        "coords": [
+          45.973945,
+          6.45494
+        ]
+      },
+      {
+        "name": "Statut du Tremplin",
+        "type": "hack",
+        "coords": [
+          45.974154,
+          6.458377
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "WGFjZm9EQXhoQkZYYmJYcDd3am1BdElTaEMvcGdLeWh5SldyTEJ3UEhhWEg4V3VSdHYwT1FNSi91RzlIV3BKdg==",
+    "name": "Le Haut du Tôt",
+    "coords": [
+      48.034812,
+      6.734878
+    ],
+    "icon": "https://lh3.googleusercontent.com/Jz9SfXvfcy9kpWIm1GVgv9iWWeQsp-dycvq3xiyB06pK3yhdm1MfbQfnZlpQa1_Ue-YAZoV4iq9EAIRUtG8=s30",
+    "waypoints": [
+      {
+        "name": "Croix Dite \"Thiriet\" ",
+        "type": "hack",
+        "coords": [
+          48.034812,
+          6.734878
+        ]
+      },
+      {
+        "name": "Croix De 1765",
+        "type": "hack",
+        "coords": [
+          48.042091,
+          6.751504
+        ]
+      },
+      {
+        "name": "Honneur Au 1er Groupe De Commandos De France",
+        "type": "hack",
+        "coords": [
+          48.041326,
+          6.751478
+        ]
+      },
+      {
+        "name": "Table D'orientation Croix Des Hêtres",
+        "type": "hack",
+        "coords": [
+          48.036081,
+          6.754182
+        ]
+      },
+      {
+        "name": "Église Du Haut Du Tôt",
+        "type": "hack",
+        "coords": [
+          48.041819,
+          6.763229
+        ]
+      },
+      {
+        "name": "Plaque Colorée Du Haut Du Tôt",
+        "type": "hack",
+        "coords": [
+          48.041616,
+          6.763248
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "eWNKWGhsTW9yZjk5UHc3MzZMWVhZZTVyb1U0Y1NHNUZJbHpKZWIrZkdTNFZaMTNPRFRvSy83UzRZN3ZjR1hZZg==",
+    "name": "Le Thillot",
+    "coords": [
+      47.888299,
+      6.727972
+    ],
+    "icon": "https://lh3.googleusercontent.com/ng2mIu81AG4fOeO_LP3U5nwbooAzSy8uiO1vAh9bRFIS9Qq4ovatGYZxPCtFcJ3JYrPApO4J71RcdpPKnXWLfQ=s30",
+    "waypoints": [
+      {
+        "name": "Old France Chapel",
+        "type": "hack",
+        "coords": [
+          47.888299,
+          6.727972
+        ]
+      },
+      {
+        "name": "France Church ",
+        "type": "hack",
+        "coords": [
+          47.891009,
+          6.73955
+        ]
+      },
+      {
+        "name": "Général De Lattre De Tassigny",
+        "type": "hack",
+        "coords": [
+          47.880471,
+          6.76344
+        ]
+      },
+      {
+        "name": "Fresque- Le Thillot",
+        "type": "hack",
+        "coords": [
+          47.880242,
+          6.764486
+        ]
+      },
+      {
+        "name": "Eglise Thillot",
+        "type": "hack",
+        "coords": [
+          47.879602,
+          6.766435
+        ]
+      },
+      {
+        "name": "chez fat",
+        "type": "hack",
+        "coords": [
+          47.879411,
+          6.765304
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "aWZ3aElZWUp4V3Z2dVVHS2IyRFZmbGdRdE9qcXQrZURzTHZhZGdFb3dXdG1OZzh5U1JNRkcwTTduWGNIODBwdw==",
+    "name": "Les Houches",
+    "coords": [
+      45.889848,
+      6.789338
+    ],
+    "icon": "https://lh3.googleusercontent.com/p1KnnsRGP-ATPDxmHMyW8PZykyaAGcV3yj9sF9uWPLZnPFjhECB-kUra2LOwHHY_RVdJiWgr9o6jykmvbjqi=s30",
+    "waypoints": [
+      {
+        "name": "Les Houches - Le Refuge Payot",
+        "type": "hack",
+        "coords": [
+          45.889848,
+          6.789338
+        ]
+      },
+      {
+        "name": "Fontaine Chute D'eau Murale",
+        "type": "hack",
+        "coords": [
+          45.889481,
+          6.79779
+        ]
+      },
+      {
+        "name": "Vieux Moulin",
+        "type": "hack",
+        "coords": [
+          45.890182,
+          6.798231
+        ]
+      },
+      {
+        "name": "Église des Houches",
+        "type": "hack",
+        "coords": [
+          45.890457,
+          6.798712
+        ]
+      },
+      {
+        "name": "Musée Montagnard",
+        "type": "hack",
+        "coords": [
+          45.889996,
+          6.798029
+        ]
+      },
+      {
+        "name": "Mairie Des Houches",
+        "type": "hack",
+        "coords": [
+          45.889885,
+          6.798329
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "VHBqdlpzemVJUnJ1ZXEzN1BMa1d4RFk2aTV4ZVZwd3o1dFQxam9KOXl2anBiczM4L0tZcGRCc0c2UXhnUm5jNg==",
+    "name": "Longeville-lès-Saint-Avold",
+    "coords": [
+      49.116437,
+      6.639575
+    ],
+    "icon": "https://lh3.googleusercontent.com/ESPOYMFgCurpni6Ex3xspcBHqC-dLh-XySs8KfJXhIGjetrYbs9aO2gsJ_O936-E8BLfUUaiIoUYU1mv6a9M=s30",
+    "waypoints": [
+      {
+        "name": "Longeville : Souvenir Des Morts 39-45",
+        "type": "hack",
+        "coords": [
+          49.116437,
+          6.639575
+        ]
+      },
+      {
+        "name": "Longeville, Poste",
+        "type": "hack",
+        "coords": [
+          49.116607,
+          6.640941
+        ]
+      },
+      {
+        "name": "Longeville, Mairie",
+        "type": "hack",
+        "coords": [
+          49.116983,
+          6.639018
+        ]
+      },
+      {
+        "name": "Longeville Saint Pierre",
+        "type": "hack",
+        "coords": [
+          49.115773,
+          6.638697
+        ]
+      },
+      {
+        "name": "Longeville : La Vierge Marie ",
+        "type": "hack",
+        "coords": [
+          49.116189,
+          6.637538
+        ]
+      },
+      {
+        "name": "Longeville : Mein Bürde Ist Leicht !",
+        "type": "hack",
+        "coords": [
+          49.116202,
+          6.637828
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "Y0pOU01LZ09lU0ZuQ01hNUtxcEJmUVlscjVNaTF5ZzJsVUhhc0tHMjd5WmRYd2hLU0dnM0xZZFJkZExub2hmeg==",
+    "name": "Lunéville",
+    "coords": [
+      48.588004,
+      6.497061
+    ],
+    "icon": "https://lh3.googleusercontent.com/aG9B27b5UyNggkxOSvyrsiFuVEoagXNKoqUAsLltXwCAzcehN_Wj2c8udzLG0pIWI0VGSZEphYWG0SkRI-ke=s30",
+    "waypoints": [
+      {
+        "name": "Gare de Lunéville",
+        "type": "hack",
+        "coords": [
+          48.588004,
+          6.497061
+        ]
+      },
+      {
+        "name": "Sous Préfecture Lunéville",
+        "type": "hack",
+        "coords": [
+          48.589639,
+          6.494287
+        ]
+      },
+      {
+        "name": "Fontaine Place Leopold",
+        "type": "hack",
+        "coords": [
+          48.591711,
+          6.495193
+        ]
+      },
+      {
+        "name": "Hôtel De Ville De Lunéville",
+        "type": "hack",
+        "coords": [
+          48.591862,
+          6.49211
+        ]
+      },
+      {
+        "name": "Théâtre De Lunéville",
+        "type": "hack",
+        "coords": [
+          48.593752,
+          6.493817
+        ]
+      },
+      {
+        "name": "Statue Ernest Bichat",
+        "type": "hack",
+        "coords": [
+          48.593897,
+          6.492473
+        ]
+      },
+      {
+        "name": "Tribunal Civil",
+        "type": "hack",
+        "coords": [
+          48.593716,
+          6.491876
+        ]
+      },
+      {
+        "name": "Chateau De Lunéville Cour Intérieure ",
+        "type": "hack",
+        "coords": [
+          48.594817,
+          6.492477
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "aWRVYlk2ZkYxYUl4V0JzcTlQZTZNRlBlbEQ0eE9jek1DS1llalNqYXB0ek9SZk5EMU1rcnByRVFkTGN5M3FGVA==",
+    "name": "Lure",
+    "coords": [
+      47.681109,
+      6.499515
+    ],
+    "icon": "https://lh3.googleusercontent.com/yrB2EaEXBR8GUM5HZ2rE5-Ujqmr2r_gKU5_DxBI_lWktn9IPZXDFZocitvJH3pIZWAL9IU39prVFCvf5Lwk5=s30",
+    "waypoints": [
+      {
+        "name": "Office Du Tourisme",
+        "type": "hack",
+        "coords": [
+          47.681109,
+          6.499515
+        ]
+      },
+      {
+        "name": "Sapeur Camenber",
+        "type": "hack",
+        "coords": [
+          47.683602,
+          6.49637
+        ]
+      },
+      {
+        "name": "Ancienne Fontaine",
+        "type": "hack",
+        "coords": [
+          47.684315,
+          6.495578
+        ]
+      },
+      {
+        "name": "Les Affiches",
+        "type": "hack",
+        "coords": [
+          47.685008,
+          6.495589
+        ]
+      },
+      {
+        "name": "Église St Martin",
+        "type": "hack",
+        "coords": [
+          47.685693,
+          6.49532
+        ]
+      },
+      {
+        "name": "Let's Fly",
+        "type": "hack",
+        "coords": [
+          47.688555,
+          6.486136
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "eVQ3ZjF4MmcxTkEyL2QyVjFEQ0hoNDQ3S0wzSUJJR0xrbmJLbHltTThHNFpJK1NrUmF5MmNmbVZDbWliek1KMg==",
+    "name": "Malzéville",
+    "coords": [
+      48.704507,
+      6.196051
+    ],
+    "icon": "https://lh3.googleusercontent.com/RC9fTs-kI0QzFR0CSo6udMkc_QJnhi_SKO-hQL53_Q7rFBUL9W7xrSkXn4vUEXm2BrDLV3uSke0CK6oMW5EA=s30",
+    "waypoints": [
+      {
+        "name": "Église St. Michel",
+        "type": "hack",
+        "coords": [
+          48.704507,
+          6.196051
+        ]
+      },
+      {
+        "name": "Stèle Jeannot",
+        "type": "hack",
+        "coords": [
+          48.701735,
+          6.186731
+        ]
+      },
+      {
+        "name": "Stretch Art",
+        "type": "hack",
+        "coords": [
+          48.702409,
+          6.184905
+        ]
+      },
+      {
+        "name": "Entrée De Malzeville",
+        "type": "hack",
+        "coords": [
+          48.707184,
+          6.18499
+        ]
+      },
+      {
+        "name": "La Douera",
+        "type": "hack",
+        "coords": [
+          48.708995,
+          6.18165
+        ]
+      },
+      {
+        "name": "Cure D'air Trianon",
+        "type": "hack",
+        "coords": [
+          48.709706,
+          6.196498
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "UkJycUJaWE1pM0Q4dzlTejZxb0h5eGIwd0JPa0h2SjZDeTUwT1ZQV3BDRmxSSDV2ZVU3REVNRHVHUnhtSWtSWQ==",
+    "name": "Maron",
+    "coords": [
+      48.635523,
+      6.048579
+    ],
+    "icon": "https://lh3.googleusercontent.com/e3AjQYSrQZWMy9TtaPr8Rs67d7CKlVFJJ7dfHeA2zDni8hxAqw5xiyPi9UhBbcEjrEwvGFyBZwJ4s6i8QvAH=s30",
+    "waypoints": [
+      {
+        "name": "Maron - Lavoir",
+        "type": "hack",
+        "coords": [
+          48.635523,
+          6.048579
+        ]
+      },
+      {
+        "name": "Maron - Église et Monument aux Morts",
+        "type": "hack",
+        "coords": [
+          48.635254,
+          6.047744
+        ]
+      },
+      {
+        "name": "Mairie De Maron",
+        "type": "hack",
+        "coords": [
+          48.635064,
+          6.045019
+        ]
+      },
+      {
+        "name": "Maron La Fresque",
+        "type": "hack",
+        "coords": [
+          48.635217,
+          6.044837
+        ]
+      },
+      {
+        "name": "Aire De Jeu Du Sheriff",
+        "type": "hack",
+        "coords": [
+          48.636057,
+          6.044016
+        ]
+      },
+      {
+        "name": "Gare De Maron",
+        "type": "hack",
+        "coords": [
+          48.63715,
+          6.043676
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "UkQwNVlZTkRQZnltc2hWMVYzQUF3WUdLeVhFblozQTczaGhBdWw1cEo3Zkp0QUd2QTA2c3ZSOTNKbDZ5eXgvdg==",
+    "name": "Metz",
+    "coords": [
+      49.109851,
+      6.176741
+    ],
+    "icon": "https://lh3.googleusercontent.com/2VdEAkIUrIU3Lu8dfa1moWRQQuGz7IPIfBocTWii2UvjE8eOBmWoACBsEma9fnsbOIPcnsXHx-danrd3jHgq=s30",
+    "waypoints": [
+      {
+        "name": "Gare de Metz-Ville, Metz, Lorraine",
+        "type": "hack",
+        "coords": [
+          49.109851,
+          6.176741
+        ]
+      },
+      {
+        "name": "Horloge de la gare de Metz",
+        "type": "hack",
+        "coords": [
+          49.109983,
+          6.176995
+        ]
+      },
+      {
+        "name": "La Poste - Metz (57)",
+        "type": "hack",
+        "coords": [
+          49.110068,
+          6.176395
+        ]
+      },
+      {
+        "name": "La Poste - Metz (57) Main Entrance ",
+        "type": "hack",
+        "coords": [
+          49.110175,
+          6.175325
+        ]
+      },
+      {
+        "name": "Statue du Général Mangin",
+        "type": "hack",
+        "coords": [
+          49.110393,
+          6.174398
+        ]
+      },
+      {
+        "name": "Rue d'Austrasie Tour De La Poste",
+        "type": "hack",
+        "coords": [
+          49.110007,
+          6.174221
+        ]
+      },
+      {
+        "name": "Urssaf de Metz",
+        "type": "hack",
+        "coords": [
+          49.109618,
+          6.173267
+        ]
+      },
+      {
+        "name": "Façade Baroque",
+        "type": "hack",
+        "coords": [
+          49.109276,
+          6.176046
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "Wnp1QUpHSXNyc0hER3hxb3krd1lpR24zQW12ZzVnN2ZoWmVra2M3MnlKTC9MellmeWRKVjkzR0JRdVNRbTF0dA==",
+    "name": "Montier-en-Der",
+    "coords": [
+      48.478355,
+      4.770169
+    ],
+    "icon": "https://lh3.googleusercontent.com/OQ1c9VP5DHy8Ji8F8xUI73_RUBSne21VX_G7P7VdyItxymvHafgtqM6lcbRaDeHwXpOjr-GMu-rf6XM8NDZt=s30",
+    "waypoints": [
+      {
+        "name": "Monument Guerre De 1870",
+        "type": "hack",
+        "coords": [
+          48.478355,
+          4.770169
+        ]
+      },
+      {
+        "name": "Fontaine Du Parc de Montier",
+        "type": "hack",
+        "coords": [
+          48.478505,
+          4.769677
+        ]
+      },
+      {
+        "name": "La Marne Monument Aux Morts ",
+        "type": "hack",
+        "coords": [
+          48.478186,
+          4.770898
+        ]
+      },
+      {
+        "name": "église du haras",
+        "type": "hack",
+        "coords": [
+          48.477871,
+          4.771213
+        ]
+      },
+      {
+        "name": "Oiseaux Fleurie ",
+        "type": "hack",
+        "coords": [
+          48.478049,
+          4.771407
+        ]
+      },
+      {
+        "name": "Montier-en-der - Jeanne D'arc",
+        "type": "hack",
+        "coords": [
+          48.477841,
+          4.772164
+        ]
+      },
+      {
+        "name": "La Fontaine",
+        "type": "hack",
+        "coords": [
+          48.476922,
+          4.770251
+        ]
+      },
+      {
+        "name": "Halle Au Ble",
+        "type": "hack",
+        "coords": [
+          48.476639,
+          4.771133
+        ]
+      },
+      {
+        "name": "Montier-en-der - La Roue À Eau",
+        "type": "hack",
+        "coords": [
+          48.478218,
+          4.769308
+        ]
+      },
+      {
+        "name": "Montier-en-der - Hommage Rémy Vincent",
+        "type": "hack",
+        "coords": [
+          48.478224,
+          4.768692
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "czZ6U05QV2xBa2pkSzJZcXZrdVZUS1c4RXhVOGFzcE5SQURxLzZxbVRuSWVPc1JiTmsvZHBscFAxYjd2WWtyMA==",
+    "name": "Montigny-lès-Metz",
+    "coords": [
+      49.099985,
+      6.153059
+    ],
+    "icon": "https://lh3.googleusercontent.com/riPEnFjj-Fo5bIURnHHWN1uSrfu_KMuC6k5TMrRlJQxqnFY0V7VRc3X9y0tHQjMVWd6_sTD20tXskHMuTa8=s30",
+    "waypoints": [
+      {
+        "name": "Hôtel De Ville De Montigny-lès-Metz",
+        "type": "hack",
+        "coords": [
+          49.099985,
+          6.153059
+        ]
+      },
+      {
+        "name": "Homme Du 3ème Millénaire",
+        "type": "hack",
+        "coords": [
+          49.101515,
+          6.154315
+        ]
+      },
+      {
+        "name": "Fontaine Arrosoirs",
+        "type": "hack",
+        "coords": [
+          49.101226,
+          6.154119
+        ]
+      },
+      {
+        "name": "Montigny-lès-Metz - Église Saint Joseph",
+        "type": "hack",
+        "coords": [
+          49.100129,
+          6.155834
+        ]
+      },
+      {
+        "name": "Statue Le Volcan",
+        "type": "hack",
+        "coords": [
+          49.100372,
+          6.155401
+        ]
+      },
+      {
+        "name": "Montigny-lès-Metz - Église",
+        "type": "hack",
+        "coords": [
+          49.100658,
+          6.156307
+        ]
+      },
+      {
+        "name": "Jésus À La Croix",
+        "type": "hack",
+        "coords": [
+          49.100817,
+          6.156907
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "SC9KaDNuQVdVY2hkQkkyRzBUUHpEY3lTOVhUNTlKbUhqUExGMXBpOHdxOFhXTmcxUzlrRFZBekFhZW8vL0Iycg==",
+    "name": "Montsec",
+    "coords": [
+      48.889863,
+      5.713706
+    ],
+    "icon": "https://lh3.googleusercontent.com/F45_t2tSC9jVdAEiLY7r2_VO2AX9egVO5UFp91YM2XKv_qqFOR80j29EuR71eT4452cKuotOAFgt9C_vkp3Y=s30",
+    "waypoints": [
+      {
+        "name": "Butte de Montsec Panoramique",
+        "type": "hack",
+        "coords": [
+          48.889863,
+          5.713706
+        ]
+      },
+      {
+        "name": "Butte de Montsec Panoramique",
+        "type": "hack",
+        "coords": [
+          48.890178,
+          5.713855
+        ]
+      },
+      {
+        "name": "Mémorial américain de la butte",
+        "type": "hack",
+        "coords": [
+          48.889863,
+          5.713706
+        ]
+      },
+      {
+        "name": "Mémorial américain de la butte",
+        "type": "hack",
+        "coords": [
+          48.889891,
+          5.713148
+        ]
+      },
+      {
+        "name": "Butte de Montsec Panoramique",
+        "type": "hack",
+        "coords": [
+          48.889467,
+          5.712889
+        ]
+      },
+      {
+        "name": "Butte de Montsec Panoramique",
+        "type": "hack",
+        "coords": [
+          48.889514,
+          5.712515
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "ZTZZT0l2SkJCckpxR2hvUE5qc3A5K0hjWDM3RmRxb0g2RWFpbWtHaDZDWktlL2hlMHpuWTdvVUJabnEyZDdOMw==",
+    "name": "Munster",
+    "coords": [
+      48.041858,
+      7.131593
+    ],
+    "icon": "https://lh3.googleusercontent.com/AibKAtJ60TPn6h_br2sDWSI1px4r78ClzBR89AFoC5HpYe5oE15s8J1J-lprZWHjm4dDhR9VbdcfjXB8JRHf=s30",
+    "waypoints": [
+      {
+        "name": "Moulure de Porte JK",
+        "type": "hack",
+        "coords": [
+          48.041858,
+          7.131593
+        ]
+      },
+      {
+        "name": "Le Petit Manoir du Centre",
+        "type": "hack",
+        "coords": [
+          48.041746,
+          7.133277
+        ]
+      },
+      {
+        "name": "Nature Morte en Pot",
+        "type": "hack",
+        "coords": [
+          48.041428,
+          7.134373
+        ]
+      },
+      {
+        "name": "Le Boulanger et Son Kouglopf",
+        "type": "hack",
+        "coords": [
+          48.041238,
+          7.135877
+        ]
+      },
+      {
+        "name": "Toits d'Alsace",
+        "type": "hack",
+        "coords": [
+          48.04082,
+          7.13459
+        ]
+      },
+      {
+        "name": "Hôtel de Ville",
+        "type": "hack",
+        "coords": [
+          48.041194,
+          7.137042
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "Z0VSNnZpQ3A1U2EzVEtxbnhXbERlUFVMdWpUcGZqSWZWbGtFOVdSb244di8wS2t2SG5ZbGJPWmVzTDJ1dU5ZVQ==",
+    "name": "Nancy",
+    "coords": [
+      48.691937,
+      6.18341
+    ],
+    "icon": "https://lh3.googleusercontent.com/t7a5yAKgT58Fsn7EU44VkV_gVRYnzkIl8WzFNbzOIEbgR6ZlHhF8i6ZsJVqyLtudxYdzXrBCo62dJb3uedJr=s30",
+    "waypoints": [
+      {
+        "name": "L'homme De Fer De Rodier",
+        "type": "hack",
+        "coords": [
+          48.691937,
+          6.18341
+        ]
+      },
+      {
+        "name": "Mur En Trompe L'oeil",
+        "type": "hack",
+        "coords": [
+          48.692488,
+          6.183481
+        ]
+      },
+      {
+        "name": "Schöne Tür",
+        "type": "hack",
+        "coords": [
+          48.692551,
+          6.18322
+        ]
+      },
+      {
+        "name": "Nancy - Plan en 1611 n°10",
+        "type": "hack",
+        "coords": [
+          48.692914,
+          6.182956
+        ]
+      },
+      {
+        "name": "Les fameuses grilles dorées de la place Stanisla",
+        "type": "hack",
+        "coords": [
+          48.693336,
+          6.184144
+        ]
+      },
+      {
+        "name": "Place Stanislas, Nancy, Lorrai",
+        "type": "hack",
+        "coords": [
+          48.693535,
+          6.183271
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "ZGtOSEdYaUd4Y2JYeEtnWXoyTmpWeW05WGtHQXlrcjJpc1cwQ3R4VGxwbGQ3TnE0WDMwRGRMNTVUQzdGc1VCdA==",
+    "name": "Petit tour à Mirecourt",
+    "coords": [
+      48.303533,
+      6.134198
+    ],
+    "icon": "https://lh3.googleusercontent.com/0cMIvCH27OGBr89qFVtg7Kdwo-RBv4PxuJWGalijzP8xwAerWZlXOvMlLWuuEkuxN2eIPONLQDHJctW7RKk=s30",
+    "waypoints": [
+      {
+        "name": "Mirecourt - Statue De Jeanne D'arc",
+        "type": "hack",
+        "coords": [
+          48.303533,
+          6.134198
+        ]
+      },
+      {
+        "name": "Le luthier de Mirecourt",
+        "type": "hack",
+        "coords": [
+          48.301824,
+          6.135885
+        ]
+      },
+      {
+        "name": "Mirecourt - Statue Pierre Fourier",
+        "type": "hack",
+        "coords": [
+          48.301885,
+          6.135248
+        ]
+      },
+      {
+        "name": "Mirecourt - Le Clocher",
+        "type": "hack",
+        "coords": [
+          48.301221,
+          6.134392
+        ]
+      },
+      {
+        "name": "Gare de Mirecourt",
+        "type": "hack",
+        "coords": [
+          48.299246,
+          6.129383
+        ]
+      },
+      {
+        "name": "Pressoir ",
+        "type": "hack",
+        "coords": [
+          48.300229,
+          6.134891
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "OGE0S00wYWQvYmIzK1M0a21yRVNSOVF1VVE1emRxVm9UWUFlZVF6cUFHSVNIVlFicnM0M04wdjBzZjlnQnMyeg==",
+    "name": "Petit tour à Tantonville",
+    "coords": [
+      48.470655,
+      6.141044
+    ],
+    "icon": "https://lh3.googleusercontent.com/xytOEThqigzPEnFptOxSpS_JMJazsTYzNR-DXjBG3XyztcrwqCG2iFnurJdbvscvCFUQbkTjpvBHExReBGA=s30",
+    "waypoints": [
+      {
+        "name": "Tantonville - Jésus Sur Sa Croix",
+        "type": "hack",
+        "coords": [
+          48.470655,
+          6.141044
+        ]
+      },
+      {
+        "name": "Mairie De Tantonville ",
+        "type": "hack",
+        "coords": [
+          48.469699,
+          6.139313
+        ]
+      },
+      {
+        "name": "Kiosque De Tantonville ",
+        "type": "hack",
+        "coords": [
+          48.469369,
+          6.139506
+        ]
+      },
+      {
+        "name": "Entrée Du Château De Tantonville ",
+        "type": "hack",
+        "coords": [
+          48.469013,
+          6.138932
+        ]
+      },
+      {
+        "name": "Tantonville - Église Saint-Rémy",
+        "type": "hack",
+        "coords": [
+          48.469109,
+          6.137562
+        ]
+      },
+      {
+        "name": "Statue Jules Tourtel Tantonville ",
+        "type": "hack",
+        "coords": [
+          48.468897,
+          6.137415
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "THdiVHdiU0xwTHF0NmduV3FKODR6Z2VvVWFYVG81a1BwRGVibHRvN3NyT2lYT252MlJ3anc5WkN1SnZUQkptbw==",
+    "name": "Pont Saint Vincent",
+    "coords": [
+      48.604527,
+      6.097553
+    ],
+    "icon": "https://lh3.googleusercontent.com/hRroSFGomWTf64f2U9RUDavKNxPhXcPoJ-y6G2yW9yr6JGR6ucufDaJaJMOxEFRSWbPBo79Y8GnICEBhNBYRMw=s30",
+    "waypoints": [
+      {
+        "name": "Pont-St-Vincent - Église Saint Julien de Brioude",
+        "type": "hack",
+        "coords": [
+          48.604527,
+          6.097553
+        ]
+      },
+      {
+        "name": "Pont-St-Vincent - Gare",
+        "type": "hack",
+        "coords": [
+          48.602384,
+          6.102923
+        ]
+      },
+      {
+        "name": "Pont-St-Vincent - Espace Multi-Activités",
+        "type": "hack",
+        "coords": [
+          48.603275,
+          6.101561
+        ]
+      },
+      {
+        "name": "Pont-St-Vincent - Monument aux Morts",
+        "type": "hack",
+        "coords": [
+          48.604669,
+          6.100834
+        ]
+      },
+      {
+        "name": "Neuves-Maisons - Maison Natale Nicolas Caillon",
+        "type": "hack",
+        "coords": [
+          48.614784,
+          6.104004
+        ]
+      },
+      {
+        "name": "Neuves-Maisons - Centre Culturel Jean L'Hôte",
+        "type": "hack",
+        "coords": [
+          48.614641,
+          6.106565
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "ZDEySWdqK2Z6ZGxLMUJleUV5V3NsTGF2UkQwQ0V2RDcyM1NpL2tjVW85M2ozNGUvSVRWa280SWVyd0ZKQWYwdQ==",
+    "name": "Pont-à-Mousson",
+    "coords": [
+      48.900234,
+      6.050809
+    ],
+    "icon": "https://lh3.googleusercontent.com/qz3YwpE30eC2Q9DK627YWdYxMRB1hbM_2VgWEbpqfwNZPPtsXNNx4RJ4vJZRBg4BxBOnPvscVLzPO_DZi0mr=s30",
+    "waypoints": [
+      {
+        "name": "Gare Sncf de Pont-à-Mousson",
+        "type": "hack",
+        "coords": [
+          48.900234,
+          6.050809
+        ]
+      },
+      {
+        "name": "Meurthe Et Moselle",
+        "type": "hack",
+        "coords": [
+          48.900594,
+          6.051457
+        ]
+      },
+      {
+        "name": "Monument Au Mort De La Resistance",
+        "type": "hack",
+        "coords": [
+          48.901529,
+          6.050917
+        ]
+      },
+      {
+        "name": "Marie De Pont A Mousson",
+        "type": "hack",
+        "coords": [
+          48.90223,
+          6.052944
+        ]
+      },
+      {
+        "name": "Pontam - Maison Des 7 Pêchés Capitaux",
+        "type": "hack",
+        "coords": [
+          48.90261,
+          6.054177
+        ]
+      },
+      {
+        "name": "Pontam - Place Duroc",
+        "type": "hack",
+        "coords": [
+          48.902594,
+          6.054872
+        ]
+      },
+      {
+        "name": "Pontam - Hôtel De Ville",
+        "type": "hack",
+        "coords": [
+          48.903059,
+          6.054992
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "Rlgya1A4bCtzQkFIdzJnQkxxN0dyVEUwdjYydzRFMDNZaEpYVFZNclZLWDhUOExrZXNJcFFSc1dTU0dXeVJHOQ==",
+    "name": "Porcelette",
+    "coords": [
+      49.156422,
+      6.655569
+    ],
+    "icon": "https://lh3.googleusercontent.com/tctOhew87NqfkupB5rTNgRlrUYY0auJTKpPOwvaZJ4GG_QDPoAO_TtdY76LiEqJv7DMCGKfYsvJiJJ42rJitgw=s30",
+    "waypoints": [
+      {
+        "name": "Porcelette Poste",
+        "type": "hack",
+        "coords": [
+          49.156422,
+          6.655569
+        ]
+      },
+      {
+        "name": "Porcelette Fontaine Mairie",
+        "type": "hack",
+        "coords": [
+          49.156386,
+          6.654834
+        ]
+      },
+      {
+        "name": "Porcelette Memorial",
+        "type": "hack",
+        "coords": [
+          49.156393,
+          6.653734
+        ]
+      },
+      {
+        "name": "Eglise De Porcelette",
+        "type": "hack",
+        "coords": [
+          49.156845,
+          6.653532
+        ]
+      },
+      {
+        "name": "Porcelette Sainte-Barbe",
+        "type": "hack",
+        "coords": [
+          49.15613,
+          6.652575
+        ]
+      },
+      {
+        "name": "Porcelette Calvaire",
+        "type": "hack",
+        "coords": [
+          49.158011,
+          6.65102
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "M00xY202eGZrS0RNa081Q3REdmVjbzFHcGo1RmhlZzRSYUxLVkdGR3cyTXRKRlA1NlduWlhjYU1qMEFlL2Vpeg==",
+    "name": "Poussay",
+    "coords": [
+      48.32324,
+      6.127364
+    ],
+    "icon": "https://lh3.googleusercontent.com/61OiltgI_vcGjD29GfGz7yML8JkCAogTOcqg7qQNJ7XqYYN93FffHKB-RukToeFl3b1uO3lMYhiCpO87ji5hVg=s30",
+    "waypoints": [
+      {
+        "name": "Poussay - Ensemble",
+        "type": "hack",
+        "coords": [
+          48.32324,
+          6.127364
+        ]
+      },
+      {
+        "name": "Poussay - Église Saint Maurice",
+        "type": "hack",
+        "coords": [
+          48.320859,
+          6.124262
+        ]
+      },
+      {
+        "name": "Poussay - Fontaine Cérès",
+        "type": "hack",
+        "coords": [
+          48.320699,
+          6.123366
+        ]
+      },
+      {
+        "name": "Poussay - Le Puit Monumental",
+        "type": "hack",
+        "coords": [
+          48.320173,
+          6.123642
+        ]
+      },
+      {
+        "name": "Poussay - Monument Aux Morts",
+        "type": "hack",
+        "coords": [
+          48.319621,
+          6.123997
+        ]
+      },
+      {
+        "name": "Château D'eau De Poussay",
+        "type": "hack",
+        "coords": [
+          48.318186,
+          6.122293
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "MlFOOCtQZjlSU3NkVGJPVXVxcmdHMDlwS2xEcFhxaEluWjFTRGVTdDhqK2lCc1lHb2FQbmN3L0RBNnFuUVlyaQ==",
+    "name": "Promenade à Haut-Clocher",
+    "coords": [
+      48.760652,
+      6.992654
+    ],
+    "icon": "https://lh3.googleusercontent.com/SYs4D6OnY0x3tmhbMiJXVQViIMqz2stU4dTd__LQfZwokZo5J0gkWrgxBl3beu5qRIb_4uodXGz0J6Vwbzly=s30",
+    "waypoints": [
+      {
+        "name": "Haut-Clocher - Jésus sur sa croix",
+        "type": "hack",
+        "coords": [
+          48.760652,
+          6.992654
+        ]
+      },
+      {
+        "name": "Haut-Clocher - Calvaire ",
+        "type": "hack",
+        "coords": [
+          48.758837,
+          6.997135
+        ]
+      },
+      {
+        "name": "Vieille Charrue",
+        "type": "hack",
+        "coords": [
+          48.758045,
+          7.00064
+        ]
+      },
+      {
+        "name": "Haut-Clocher Croix Du Saule",
+        "type": "hack",
+        "coords": [
+          48.756466,
+          7.001335
+        ]
+      },
+      {
+        "name": "Haut-Clocher - Croix Peter Fillinger ",
+        "type": "hack",
+        "coords": [
+          48.755536,
+          7.001949
+        ]
+      },
+      {
+        "name": "Haut-Clocher - Croix et Pietà ",
+        "type": "hack",
+        "coords": [
+          48.75412,
+          7.00544
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "VCtsMnB6QjZHV2piQUJYbi9iRmxBRnFTU0VtVVJmdTlCdmdUUTlwNEh1MHQ1elBHRFRDOGJGdDVBUWhPRE1ZRg==",
+    "name": "Pulnoy",
+    "coords": [
+      48.702236,
+      6.257721
+    ],
+    "icon": "https://lh3.googleusercontent.com/JJaIIaiJYg6TEOURE6ikZIcNgusEmxhZ0cD7G8V6kfgCsJ3r4q-2eLnbXIBGFx08P1-RYyQcXM4UEWedvUPL=s30",
+    "waypoints": [
+      {
+        "name": "Monument Aux Morts",
+        "type": "hack",
+        "coords": [
+          48.702236,
+          6.257721
+        ]
+      },
+      {
+        "name": "Pulnoy - Église",
+        "type": "hack",
+        "coords": [
+          48.701921,
+          6.257894
+        ]
+      },
+      {
+        "name": "Château D'eau De Pulnoy",
+        "type": "hack",
+        "coords": [
+          48.700077,
+          6.256848
+        ]
+      },
+      {
+        "name": "Aire De Jeux #2 De Pulnoy ",
+        "type": "hack",
+        "coords": [
+          48.700463,
+          6.259774
+        ]
+      },
+      {
+        "name": "Aire De Jeux #1 De  Pulnoy ",
+        "type": "hack",
+        "coords": [
+          48.70213,
+          6.251252
+        ]
+      },
+      {
+        "name": "Le Boulanger",
+        "type": "hack",
+        "coords": [
+          48.709736,
+          6.254055
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "bU1DOEtLT1JCdjVXUGwwZjBENU1nVHV1bjNBWSs1bUlybzlxT204YmZkejNIUGJpNktZSzdWNGxSVE05bmtjaA==",
+    "name": "Rambervillers",
+    "coords": [
+      48.346733,
+      6.6354
+    ],
+    "icon": "https://lh3.googleusercontent.com/vWtunmpzqsQepFQbObB8r_cuPWu0IWVx5BU3yIsUQy0r29N1OxH8kfXQym3CngSJD0QKcq-KA7f_V4pjaL1h=s30",
+    "waypoints": [
+      {
+        "name": "Statue Femme Assise Rambervillers",
+        "type": "hack",
+        "coords": [
+          48.346733,
+          6.6354
+        ]
+      },
+      {
+        "name": "Mairie de Rambervillers ",
+        "type": "hack",
+        "coords": [
+          48.346531,
+          6.635241
+        ]
+      },
+      {
+        "name": "Rambervillers - Statue du 9 Octobre 1870",
+        "type": "hack",
+        "coords": [
+          48.346264,
+          6.635428
+        ]
+      },
+      {
+        "name": "Rambervillers - Église Sainte Libaire",
+        "type": "hack",
+        "coords": [
+          48.34595,
+          6.635913
+        ]
+      },
+      {
+        "name": "Monument Au Général Richard Rambervillers",
+        "type": "hack",
+        "coords": [
+          48.345478,
+          6.637639
+        ]
+      },
+      {
+        "name": "Chapelle Saint Antoine Rambervillers",
+        "type": "hack",
+        "coords": [
+          48.344732,
+          6.640509
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "S3FWV0ZrVWdxdkF5Z0MxTWU0OTZXcWtTTEdlSUplNWFiUHZlYlFENTdacHRBeDA1c0xaVmlRaTlyS0xUN1lkYg==",
+    "name": "Raon-l'Étape",
+    "coords": [
+      48.403819,
+      6.837061
+    ],
+    "icon": "https://lh3.googleusercontent.com/SoseYuzjHoPCLew7WJ5Z1BJr8kCqaJAWtkABTyuGCwYiTJbrP2Ne6PSJtO8JnGE8OQoFWU-Waw9gerhYSHqp=s30",
+    "waypoints": [
+      {
+        "name": "Raon-l'Étape - Gare SNCF",
+        "type": "hack",
+        "coords": [
+          48.403819,
+          6.837061
+        ]
+      },
+      {
+        "name": "Raon-l'Étape - Église St-George",
+        "type": "hack",
+        "coords": [
+          48.406231,
+          6.840472
+        ]
+      },
+      {
+        "name": "Raon-l'Étape - La Poste",
+        "type": "hack",
+        "coords": [
+          48.407354,
+          6.8427
+        ]
+      },
+      {
+        "name": "Raon-l'Étape - Robert Tisserand",
+        "type": "hack",
+        "coords": [
+          48.407322,
+          6.843967
+        ]
+      },
+      {
+        "name": "Raon-l'Étape - Église St-Luc",
+        "type": "hack",
+        "coords": [
+          48.407581,
+          6.844181
+        ]
+      },
+      {
+        "name": "Raon-l'Étape - Hôtel de Ville",
+        "type": "hack",
+        "coords": [
+          48.407194,
+          6.84392
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "WmI5eE0zQ2FjSGFuemU1bnJLOFFLZ3dMSVY0WjdZdnRTUnIrMXVWWU5uaE9uRkExSElQeEIvSDhXcE9BRmROcQ==",
+    "name": "Remiremont",
+    "coords": [
+      48.014765,
+      6.595821
+    ],
+    "icon": "https://lh3.googleusercontent.com/Ym6J964HgX_WZp8Q7JYLSXatoycXxPuMmV8rfnPMu2xzY3bP46Thk1tvw2hYbf6_WuEinGdBYUN2oKQvLJI=s30",
+    "waypoints": [
+      {
+        "name": "Fontaine De Remiremont",
+        "type": "hack",
+        "coords": [
+          48.014765,
+          6.595821
+        ]
+      },
+      {
+        "name": "Fontaine des capucines",
+        "type": "hack",
+        "coords": [
+          48.015678,
+          6.594298
+        ]
+      },
+      {
+        "name": "Vitrail",
+        "type": "hack",
+        "coords": [
+          48.016046,
+          6.593492
+        ]
+      },
+      {
+        "name": "Vierge emprisonnée",
+        "type": "hack",
+        "coords": [
+          48.016051,
+          6.593096
+        ]
+      },
+      {
+        "name": "Musée Municipal",
+        "type": "hack",
+        "coords": [
+          48.016223,
+          6.593196
+        ]
+      },
+      {
+        "name": "Musée Municipal Charles De Bruyères",
+        "type": "hack",
+        "coords": [
+          48.016327,
+          6.592937
+        ]
+      },
+      {
+        "name": "Fontaine de La Rue Du Général De Gaulle",
+        "type": "hack",
+        "coords": [
+          48.016383,
+          6.592537
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "RUFoZmhIOStaR1pDTjBLVFB6d1h6bXZ6RmorbXYrem91a2NDT0ZqZ29rN0JXTE53UjF2MUtQcWhDWWlINHpQNQ==",
+    "name": "Rochesson",
+    "coords": [
+      48.021916,
+      6.786982
+    ],
+    "icon": "https://lh3.googleusercontent.com/VYXDsS5thhGgONauNwAgjTzKCO4icXcmOMqULlNGF3sOj0VbLTc0b3kM3E_Cx9NhMJNYZ7v61ovVZeBKCvF0ow=s30",
+    "waypoints": [
+      {
+        "name": "Girouette",
+        "type": "hack",
+        "coords": [
+          48.021916,
+          6.786982
+        ]
+      },
+      {
+        "name": "Église De Rochosson",
+        "type": "hack",
+        "coords": [
+          48.022095,
+          6.785666
+        ]
+      },
+      {
+        "name": "Square De Rochesson",
+        "type": "hack",
+        "coords": [
+          48.022321,
+          6.786966
+        ]
+      },
+      {
+        "name": "Mairie De Rochesson",
+        "type": "hack",
+        "coords": [
+          48.022552,
+          6.786703
+        ]
+      },
+      {
+        "name": "Croix De La Houblivière",
+        "type": "hack",
+        "coords": [
+          48.022969,
+          6.77329
+        ]
+      },
+      {
+        "name": "Schlitteur Dans Le Rosier",
+        "type": "hack",
+        "coords": [
+          48.025234,
+          6.774763
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "dG55d2JIMWFRNUpJdFJOekd5NWlLRkhsanczRzJTNEE2QVpBYzVMZ01JQ01Ld0dGQnQwbm5rRWlCdVV5S28rNA==",
+    "name": "Roville devant Bayon",
+    "coords": [
+      48.466842,
+      6.291077
+    ],
+    "icon": "https://lh3.googleusercontent.com/5_Bu_qRtz3Aiw1idnIqihCBnHG0Jp4WA7oWC1lXwPfxePoeKtrYkSbmQCBkDR5rrUkN1hWgd66PMZVgMbM4=s30",
+    "waypoints": [
+      {
+        "name": "Monument Aux Morts",
+        "type": "hack",
+        "coords": [
+          48.466842,
+          6.291077
+        ]
+      },
+      {
+        "name": "Statue Mathieu De Dombasle",
+        "type": "hack",
+        "coords": [
+          48.467105,
+          6.291329
+        ]
+      },
+      {
+        "name": "Vierge De Roville Devant Bayon",
+        "type": "hack",
+        "coords": [
+          48.469688,
+          6.294023
+        ]
+      },
+      {
+        "name": "Mairie De Laneuveville Devant Bayon",
+        "type": "hack",
+        "coords": [
+          48.471208,
+          6.266316
+        ]
+      },
+      {
+        "name": "Stèle Georges Moleon",
+        "type": "hack",
+        "coords": [
+          48.470093,
+          6.263579
+        ]
+      },
+      {
+        "name": "Jésus Sur Sa Croix",
+        "type": "hack",
+        "coords": [
+          48.470003,
+          6.263276
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "SGtsdjBKZGkyWTY0QU5OeFl5K282RzFFcTY3a2pRUEVsdHFzaFpCcGlEZ0xzOTBoRnArbmZ5emRaTUVFQzR1VA==",
+    "name": "Rugney",
+    "coords": [
+      48.348479,
+      6.253815
+    ],
+    "icon": "https://lh3.googleusercontent.com/Ti5IWjCYOZpcaJgUNDB5R81MafCdSK4U1KQnzIkbXGYksOTIx1ZwpPoODZ9F7HpYyzqUk1kCnUbDaXEXhxyYfQ=s30",
+    "waypoints": [
+      {
+        "name": "Rugney Mairie",
+        "type": "hack",
+        "coords": [
+          48.348479,
+          6.253815
+        ]
+      },
+      {
+        "name": "Rugney Lavoir",
+        "type": "hack",
+        "coords": [
+          48.348338,
+          6.254188
+        ]
+      },
+      {
+        "name": "Rugney  Croix",
+        "type": "hack",
+        "coords": [
+          48.348329,
+          6.254753
+        ]
+      },
+      {
+        "name": "Rugney",
+        "type": "hack",
+        "coords": [
+          48.347164,
+          6.255271
+        ]
+      },
+      {
+        "name": "Rugney - Aire de jeux",
+        "type": "hack",
+        "coords": [
+          48.347145,
+          6.254918
+        ]
+      },
+      {
+        "name": "Rugney Eglise",
+        "type": "hack",
+        "coords": [
+          48.347336,
+          6.253994
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "MUpsZk5TVVNyM0p3S0w4QTJidXBuSGtIN2lTTUsyQ1pNUGZtbERXVkRENlAraFVoNWJyTkhaeTZtOGNHR1RtSQ==",
+    "name": "Saint Amarin",
+    "coords": [
+      47.873044,
+      7.028844
+    ],
+    "icon": "https://lh3.googleusercontent.com/Y_Hzk_G_lZeGmOePpWlO4agGYaKrlEcbt9hAuKB3pROc3UzIc8tdAAcyeCA7TOr44ExlbZbeioPidLUwamajEQ=s30",
+    "waypoints": [
+      {
+        "name": "Gare De Saint Amarin",
+        "type": "hack",
+        "coords": [
+          47.873044,
+          7.028844
+        ]
+      },
+      {
+        "name": "Fresque Peinte Chateau",
+        "type": "hack",
+        "coords": [
+          47.874358,
+          7.029185
+        ]
+      },
+      {
+        "name": "Fontaine Au Coq",
+        "type": "hack",
+        "coords": [
+          47.874203,
+          7.030804
+        ]
+      },
+      {
+        "name": "Musée SERRET",
+        "type": "hack",
+        "coords": [
+          47.87534,
+          7.029539
+        ]
+      },
+      {
+        "name": "Calvaire De Saint-Amarin",
+        "type": "hack",
+        "coords": [
+          47.875909,
+          7.03033
+        ]
+      },
+      {
+        "name": "Fontaine Aux 4 Becs",
+        "type": "hack",
+        "coords": [
+          47.87632,
+          7.0318
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "RDBKMXM0SzQ1TEo4K2I2aEF3MmRGYkwwL3ZIdnIrNVRrSEdLM2xxU2FRTy9ibnRGbkZnNFUvY3RaNTVaNDFHeQ==",
+    "name": "Saint Avold",
+    "coords": [
+      49.103146,
+      6.709389
+    ],
+    "icon": "https://lh3.googleusercontent.com/S5iCzpTbZOrAU3LbaqhfEeFoO0caH3I0knxfN_QTeAGmM9Y4mD0TyW45MhpVkXxzCDQF1h9CAHohde72PRUH=s30",
+    "waypoints": [
+      {
+        "name": "St Avold - Abbatiale St Nabor",
+        "type": "hack",
+        "coords": [
+          49.103146,
+          6.709389
+        ]
+      },
+      {
+        "name": "Fontaine Saint Narbor ",
+        "type": "hack",
+        "coords": [
+          49.103784,
+          6.708946
+        ]
+      },
+      {
+        "name": "St-A Fontaine Jean Mullen",
+        "type": "hack",
+        "coords": [
+          49.103854,
+          6.708228
+        ]
+      },
+      {
+        "name": "St-a, Arche Centre",
+        "type": "hack",
+        "coords": [
+          49.103631,
+          6.706883
+        ]
+      },
+      {
+        "name": "Fontaine St Jean Nepomucene",
+        "type": "hack",
+        "coords": [
+          49.103428,
+          6.705903
+        ]
+      },
+      {
+        "name": "St-a, Mur Brisé",
+        "type": "hack",
+        "coords": [
+          49.103973,
+          6.705777
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "M3RvNnpRS2pCSzFscnZubDkxazllNnYzYktLNkl2ZFJtL0Z2NHZVeSs4QnZxM1RwUmllZFpRVFRrR0g5THNCRw==",
+    "name": "Saint-Dié-des-Vosges",
+    "coords": [
+      48.286515,
+      6.947385
+    ],
+    "icon": "https://lh3.googleusercontent.com/G9UlKFC3eIhdO66sq_rs2wT-M0M0fZRJEQSTCqvK5veTlzaR__dGdsBVLIAv-LJwamLqqfRz7tx7glcHzlpwOw=s30",
+    "waypoints": [
+      {
+        "name": "StDie - Tour de la Liberté",
+        "type": "hack",
+        "coords": [
+          48.286515,
+          6.947385
+        ]
+      },
+      {
+        "name": "StDie - Statue Jules Ferry",
+        "type": "hack",
+        "coords": [
+          48.287405,
+          6.947172
+        ]
+      },
+      {
+        "name": "StDie - Mosaïque Jean-Bazaine",
+        "type": "hack",
+        "coords": [
+          48.286395,
+          6.946685
+        ]
+      },
+      {
+        "name": "StDie - Fresque Capitale Mondiale de la Géographie",
+        "type": "hack",
+        "coords": [
+          48.286237,
+          6.950364
+        ]
+      },
+      {
+        "name": "Office De Tourisme",
+        "type": "hack",
+        "coords": [
+          48.285194,
+          6.950057
+        ]
+      },
+      {
+        "name": "Saint-Dié - Bijou De Braque",
+        "type": "hack",
+        "coords": [
+          48.285477,
+          6.949379
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "UmYveFoxT1dpS3cyV2d0UWxvVHBCQ1QxeHpBNjdQY2JCSitEU2RpT0ZCdnJyeHpkWkhCcXFxSmNLT0FHZjZPOQ==",
+    "name": "Saint-Mihiel",
+    "coords": [
+      48.889021,
+      5.542067
+    ],
+    "icon": "https://lh3.googleusercontent.com/_7uaXqCoYVt-JwHftxNYr2Vbo7yQZQX747m_rPWXYFeMyXjTN1NbBRC_r9IgtpCMCdCBFDtkSFlx7fJmtkh5=s30",
+    "waypoints": [
+      {
+        "name": "Eglise Saint-Michel",
+        "type": "hack",
+        "coords": [
+          48.889021,
+          5.542067
+        ]
+      },
+      {
+        "name": "Pax Labor",
+        "type": "hack",
+        "coords": [
+          48.889768,
+          5.542554
+        ]
+      },
+      {
+        "name": "Saint-Mihiel - Fontaine",
+        "type": "hack",
+        "coords": [
+          48.890084,
+          5.541241
+        ]
+      },
+      {
+        "name": "Hospice Sainte Anne",
+        "type": "hack",
+        "coords": [
+          48.890111,
+          5.54067
+        ]
+      },
+      {
+        "name": "Gravure Murale",
+        "type": "hack",
+        "coords": [
+          48.891009,
+          5.540498
+        ]
+      },
+      {
+        "name": "Vierge",
+        "type": "hack",
+        "coords": [
+          48.891174,
+          5.540833
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "dGNraWN3aHBJR2xDbm95NURXMkF3YUZES29FZ1Bjc3kwZUg3dCtndlc3YmZNQ2Uza21Nckg1Qk50TTR0TlJ3aw==",
+    "name": "Saint-Nicolas-de-Port",
+    "coords": [
+      48.630854,
+      6.302563
+    ],
+    "icon": "https://lh3.googleusercontent.com/cWlPgl31gnzo1HdV_GgFKWElqwhmMswJ8jpJABaozfFCWTAo5pyXznGqmiW3AnVohwWS0cgJa6OYr5yrpy8=s30",
+    "waypoints": [
+      {
+        "name": "Saint-nicolas-de-port - Hôtel De Ville",
+        "type": "hack",
+        "coords": [
+          48.630854,
+          6.302563
+        ]
+      },
+      {
+        "name": "Monument Aux Morts St-Nicolas De Port",
+        "type": "hack",
+        "coords": [
+          48.630892,
+          6.302279
+        ]
+      },
+      {
+        "name": "Hotel St Julien",
+        "type": "hack",
+        "coords": [
+          48.632144,
+          6.301073
+        ]
+      },
+      {
+        "name": "Notre Dame De Sion",
+        "type": "hack",
+        "coords": [
+          48.632706,
+          6.30025
+        ]
+      },
+      {
+        "name": "Bibliothèque St Michel",
+        "type": "hack",
+        "coords": [
+          48.632188,
+          6.302159
+        ]
+      },
+      {
+        "name": "Chapelle Notre-Dame",
+        "type": "hack",
+        "coords": [
+          48.632824,
+          6.30351
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "UGFzWGY4SWtxMUxUTDJoTnozdGJwdEFrWUgwOXkrVHF6M0pPK0lGK2Q3Sk0raUgwN2pqTHh5M2dPSzVkVjV6bg==",
+    "name": "Sainte-Marie-aux-Mines",
+    "coords": [
+      48.245796,
+      7.182551
+    ],
+    "icon": "https://lh3.googleusercontent.com/Qd_oJ0bLEDIGQfOG18CzJ8eK-W3de18dsl-z-UxL98SGJ6r3K--hH0prHkjjATBDa8rWMTUX2whUf3Lg2ueM=s30",
+    "waypoints": [
+      {
+        "name": "Fontaine de L'hôtel de ville",
+        "type": "hack",
+        "coords": [
+          48.245796,
+          7.182551
+        ]
+      },
+      {
+        "name": "Bateau Échoué ",
+        "type": "hack",
+        "coords": [
+          48.24578,
+          7.182109
+        ]
+      },
+      {
+        "name": "Fontaine 1861",
+        "type": "hack",
+        "coords": [
+          48.245157,
+          7.181256
+        ]
+      },
+      {
+        "name": "Les Déportés Slovens",
+        "type": "hack",
+        "coords": [
+          48.244018,
+          7.180421
+        ]
+      },
+      {
+        "name": "Fontaine de la place de Foch",
+        "type": "hack",
+        "coords": [
+          48.244892,
+          7.179721
+        ]
+      },
+      {
+        "name": "A Nos Morts",
+        "type": "hack",
+        "coords": [
+          48.244679,
+          7.179717
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "dmR5YU51eDY4cFN2TVowK0xoSkVWMTQ2R1NQWjBQR0w5am9WUzBaeVpnRHZnNEd2MkVURTdxOTVZdGNncWptTg==",
+    "name": "Saulxures sur Moselotte",
+    "coords": [
+      47.950391,
+      6.776959
+    ],
+    "icon": "https://lh3.googleusercontent.com/qwgBHMcedq1HOYSp2WpM7P0gpJsRP7AWNzPmd54W_uPs6CjRbHONevXqVprlh4L8yCP6pQZP4bCV-D8Wl5GE=s30",
+    "waypoints": [
+      {
+        "name": "Saulxures - Monument Aux Morts ",
+        "type": "hack",
+        "coords": [
+          47.950391,
+          6.776959
+        ]
+      },
+      {
+        "name": "Eglise De Saulxures Sur Moselotte ",
+        "type": "hack",
+        "coords": [
+          47.948971,
+          6.77293
+        ]
+      },
+      {
+        "name": "Granit",
+        "type": "hack",
+        "coords": [
+          47.947162,
+          6.768997
+        ]
+      },
+      {
+        "name": "Honneur Aux Tirailleurs Algériens",
+        "type": "hack",
+        "coords": [
+          47.955865,
+          6.745379
+        ]
+      },
+      {
+        "name": "Lac De La Moselotte",
+        "type": "hack",
+        "coords": [
+          47.952258,
+          6.752628
+        ]
+      },
+      {
+        "name": "Le Toboggan Du Lac",
+        "type": "hack",
+        "coords": [
+          47.952073,
+          6.752167
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "ZzArU0hEZ2dMeXhWM3dTV2kzS25hbk9tbVBkSTY5WXRCbkhWUTFFQVdtaUsyci8wSmFUQm5BSDRyTTlRWlJSNw==",
+    "name": "Saxon Sion",
+    "coords": [
+      48.430394,
+      6.080561
+    ],
+    "icon": "https://lh3.googleusercontent.com/Dvp57OltisxVGgzqNUUcpMHzpDi4ovFY8Hc8Nt-_z5C0n2XHmlRUQOw_bLzD6MO_mcmbgkWxSRCHwUH-9xZgRA=s30",
+    "waypoints": [
+      {
+        "name": "Monument Saint Joseph",
+        "type": "hack",
+        "coords": [
+          48.430394,
+          6.080561
+        ]
+      },
+      {
+        "name": "Église En Plein Air Sion",
+        "type": "hack",
+        "coords": [
+          48.431115,
+          6.082973
+        ]
+      },
+      {
+        "name": "Église Notre Dame De Sion ",
+        "type": "hack",
+        "coords": [
+          48.430887,
+          6.083726
+        ]
+      },
+      {
+        "name": "Marguerite De Lorraine",
+        "type": "hack",
+        "coords": [
+          48.430664,
+          6.084106
+        ]
+      },
+      {
+        "name": "Château D'eau De Sion ",
+        "type": "hack",
+        "coords": [
+          48.43075,
+          6.08477
+        ]
+      },
+      {
+        "name": "Monument De La Paix Sion",
+        "type": "hack",
+        "coords": [
+          48.429634,
+          6.083909
+        ]
+      },
+      {
+        "name": "Jésus Sur Sa Croix Sion",
+        "type": "hack",
+        "coords": [
+          48.428115,
+          6.084956
+        ]
+      },
+      {
+        "name": "Saxon Sion - Cross",
+        "type": "hack",
+        "coords": [
+          48.425744,
+          6.07936
+        ]
+      },
+      {
+        "name": "Saxon Sion - Mairie",
+        "type": "hack",
+        "coords": [
+          48.425137,
+          6.078367
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "YjRJbEJVcHdPS1Q0T29CeHBCdStvTmk2Ui8xUENXWkNwUW1BU052YnhiaE1kWFBuVnltTmFhckxHQm1UZjNPcw==",
+    "name": "Seichamps",
+    "coords": [
+      48.711207,
+      6.263812
+    ],
+    "icon": "https://lh3.googleusercontent.com/gN1o0d3NOgApq3XpXchfShLM7DvUNlFRfKIpikcZHe70RQu1dGd1XBxhs5qIiRiGKLoGvHaFaIQHTXBJ0rhi=s30",
+    "waypoints": [
+      {
+        "name": "Seichamps - Salle Verlaine",
+        "type": "hack",
+        "coords": [
+          48.711207,
+          6.263812
+        ]
+      },
+      {
+        "name": "Seichamps - Fontaine de la Place François Mitterrand",
+        "type": "hack",
+        "coords": [
+          48.714383,
+          6.260413
+        ]
+      },
+      {
+        "name": "Seichamps - Lys Rose",
+        "type": "hack",
+        "coords": [
+          48.716316,
+          6.264867
+        ]
+      },
+      {
+        "name": "Seichamps - Monument 14-18",
+        "type": "hack",
+        "coords": [
+          48.716678,
+          6.265657
+        ]
+      },
+      {
+        "name": "Seichamps - Église",
+        "type": "hack",
+        "coords": [
+          48.716313,
+          6.265976
+        ]
+      },
+      {
+        "name": "Seichamps - Cimetière",
+        "type": "hack",
+        "coords": [
+          48.715544,
+          6.270873
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "QWMwZWxndE9IUERzOTFFYUd3MjhwS3IyYWUrK1dDMFIrbC9YdU5sNEN0aDlZMVAxTDBjYTFTd08wYzFyRWpkMQ==",
+    "name": "Sexey-aux-Forges",
+    "coords": [
+      48.621961,
+      6.051835
+    ],
+    "icon": "https://lh3.googleusercontent.com/cceMXBKLJVuUpyrztYePSR0-8V2VjJp_DRvyvu_xJx-aimHSRP1BOxUjrEeWasHARnz-7lboARyRT0MTUHkY=s30",
+    "waypoints": [
+      {
+        "name": "Wagonnet de la Mine",
+        "type": "hack",
+        "coords": [
+          48.621961,
+          6.051835
+        ]
+      },
+      {
+        "name": "Chateau Sexey",
+        "type": "hack",
+        "coords": [
+          48.621422,
+          6.046221
+        ]
+      },
+      {
+        "name": "Monument Aux Morts",
+        "type": "hack",
+        "coords": [
+          48.622975,
+          6.047021
+        ]
+      },
+      {
+        "name": "Sexey - Église",
+        "type": "hack",
+        "coords": [
+          48.623075,
+          6.04694
+        ]
+      },
+      {
+        "name": "Fontaine",
+        "type": "hack",
+        "coords": [
+          48.623131,
+          6.046167
+        ]
+      },
+      {
+        "name": "Stele Sexey",
+        "type": "hack",
+        "coords": [
+          48.624039,
+          6.045535
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "MGFWb3M0N3RpeHlJcjNBZkdsejdhSW4vMzNsdHhjMTNuc2pEZXVueG4ybzhWZmtFUU9oRm02NjgxUVdHNUFSag==",
+    "name": "Thann",
+    "coords": [
+      47.812387,
+      7.096333
+    ],
+    "icon": "https://lh3.googleusercontent.com/b6ZxaWsLJ39sMhrhq0mvoZ8zFOvG7OhLEEfQcXPTivIWu0CP3_XBZcZtMVmu3b6kWtvHZzr1DCDj1VgpUeNP=s30",
+    "waypoints": [
+      {
+        "name": "Tour Des Cigognes",
+        "type": "hack",
+        "coords": [
+          47.812387,
+          7.096333
+        ]
+      },
+      {
+        "name": "Chapelle Saint Jacques",
+        "type": "hack",
+        "coords": [
+          47.813074,
+          7.096539
+        ]
+      },
+      {
+        "name": "Synagogue De Thann",
+        "type": "hack",
+        "coords": [
+          47.811949,
+          7.098359
+        ]
+      },
+      {
+        "name": "Cour De Brunau",
+        "type": "hack",
+        "coords": [
+          47.812444,
+          7.098392
+        ]
+      },
+      {
+        "name": "L'ancien Puit",
+        "type": "hack",
+        "coords": [
+          47.812331,
+          7.099187
+        ]
+      },
+      {
+        "name": "Marechal De Lattre De Tassigny",
+        "type": "hack",
+        "coords": [
+          47.812651,
+          7.098272
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "eEo4WXUxT0tTeHFRanFOOUJhQVRudnBkOGtmRkRIWVFqSTc3dnRic2FYRklSdXVKSVEwR0VVN3VTYkVidUR6eQ==",
+    "name": "Thaon les Vosges",
+    "coords": [
+      48.250894,
+      6.422954
+    ],
+    "icon": "https://lh3.googleusercontent.com/NpM99I0yHDRmSW9E4AdSC6QQ94XShv-SViQ0FC7kL8QEsWgiLH3Q8ff0uYWcHYI86NV4uNlIC7THgwtr_PX9=s30",
+    "waypoints": [
+      {
+        "name": "La Poste Thaon ",
+        "type": "hack",
+        "coords": [
+          48.250894,
+          6.422954
+        ]
+      },
+      {
+        "name": "Thaon - Lederlin",
+        "type": "hack",
+        "coords": [
+          48.251242,
+          6.42217
+        ]
+      },
+      {
+        "name": "Cinéma Thaon ",
+        "type": "hack",
+        "coords": [
+          48.250914,
+          6.421361
+        ]
+      },
+      {
+        "name": "Tag Arbre Et Oiseaux ",
+        "type": "hack",
+        "coords": [
+          48.250993,
+          6.420999
+        ]
+      },
+      {
+        "name": "Symbole De Thaon",
+        "type": "hack",
+        "coords": [
+          48.251142,
+          6.420236
+        ]
+      },
+      {
+        "name": "Café De La Femme À Barbe ",
+        "type": "hack",
+        "coords": [
+          48.251444,
+          6.420224
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "V1RtU0RXMWxwd2dIN29sT20zaHA4L2hhTkc1QytDaG10NUZOMW9vMG0zN213cE9ESHIyeU01YU9mTGt1Ukd2WA==",
+    "name": "Tomblaine",
+    "coords": [
+      48.694595,
+      6.210321
+    ],
+    "icon": "https://lh3.googleusercontent.com/UsvKRNaU_ioY3LX8dgcsHNrGTryaZ4K4qkfmy77gFGaBfmaiB7knQM4DTCg7Qksd_evUwPo8QKqa02_4KK8=s30",
+    "waypoints": [
+      {
+        "name": "ASNL",
+        "type": "hack",
+        "coords": [
+          48.694595,
+          6.210321
+        ]
+      },
+      {
+        "name": "Tomblaine - Monument 14-18",
+        "type": "hack",
+        "coords": [
+          48.687945,
+          6.209429
+        ]
+      },
+      {
+        "name": "Tomblaine - Église",
+        "type": "hack",
+        "coords": [
+          48.686321,
+          6.210765
+        ]
+      },
+      {
+        "name": "Tomblaine - La Poste",
+        "type": "hack",
+        "coords": [
+          48.686303,
+          6.210178
+        ]
+      },
+      {
+        "name": " Tomblaine - Kiosque Du Bicentenaire ",
+        "type": "hack",
+        "coords": [
+          48.686102,
+          6.208489
+        ]
+      },
+      {
+        "name": "Tomblaine - Plaque Jean Moulin",
+        "type": "hack",
+        "coords": [
+          48.687621,
+          6.205737
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "QkZlSDNkeCtNTTdpejdoVitnRUJKTm41SlFETVhlWGRrbktZMEtXUTFWY29lbnk1WkJSL2J6QlBNYy9oRElJRQ==",
+    "name": "Urbès",
+    "coords": [
+      47.883535,
+      6.956878
+    ],
+    "icon": "https://lh3.googleusercontent.com/sc9My6cxXWSizEQ72pFI5k1-mPQpTQXo5cbUZOFwXs0kjr0SWo3Q_H5hb2j6yDPzgLG3-1ureSKPXuaOSVRf=s30",
+    "waypoints": [
+      {
+        "name": "Mairie D'Urbès",
+        "type": "hack",
+        "coords": [
+          47.883535,
+          6.956878
+        ]
+      },
+      {
+        "name": "Fontaine De La Jeune Fille ",
+        "type": "hack",
+        "coords": [
+          47.882356,
+          6.954761
+        ]
+      },
+      {
+        "name": "Urbès - Église Saint-Wendelin",
+        "type": "hack",
+        "coords": [
+          47.882298,
+          6.954374
+        ]
+      },
+      {
+        "name": "Tunnel D'Urbès",
+        "type": "hack",
+        "coords": [
+          47.880469,
+          6.932905
+        ]
+      },
+      {
+        "name": "Mairie De Storckensohn",
+        "type": "hack",
+        "coords": [
+          47.878508,
+          6.958137
+        ]
+      },
+      {
+        "name": "Eglise De Storckensohn",
+        "type": "hack",
+        "coords": [
+          47.878394,
+          6.957888
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "NFpBRzI1N3Fkd1owVWFVYUVRWUw3MkNwdXBybXFrWVAyRElPUDVwNVJJdzgxYlhHakRPdE44SGNxWVl3NHdJNA==",
+    "name": "Vagney",
+    "coords": [
+      48.008649,
+      6.715951
+    ],
+    "icon": "https://lh3.googleusercontent.com/r7UHfXlV29b8vFuH4OLoT6utPXagBVaznoyDUoclU0Zfa_SoupStJuLkMxJk0pmfxhJ-cJaMbo9ehiI2og64=s30",
+    "waypoints": [
+      {
+        "name": "Boîte à livres",
+        "type": "hack",
+        "coords": [
+          48.008649,
+          6.715951
+        ]
+      },
+      {
+        "name": "Chien Devant La Mairie",
+        "type": "hack",
+        "coords": [
+          48.008638,
+          6.716507
+        ]
+      },
+      {
+        "name": "Petit Vélo Jaune",
+        "type": "hack",
+        "coords": [
+          48.008737,
+          6.71708
+        ]
+      },
+      {
+        "name": "Vagney En Granit",
+        "type": "hack",
+        "coords": [
+          48.008235,
+          6.716863
+        ]
+      },
+      {
+        "name": "Église De Vagney",
+        "type": "hack",
+        "coords": [
+          48.008312,
+          6.717442
+        ]
+      },
+      {
+        "name": "Honneur Aux Soldats",
+        "type": "hack",
+        "coords": [
+          48.008114,
+          6.717479
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "VElOUGo0Wlh6WDlvY2lJbktkbW0wcmZlTUZqR3NDVHhsM25Fem1XSWxicEViU2tLdklJdzhwMGNqemx0OXJteg==",
+    "name": "Varangéville",
+    "coords": [
+      48.6352,
+      6.313092
+    ],
+    "icon": "https://lh3.googleusercontent.com/AjgZYgsZux3Ls9LkmhpYAtYbdLv_hHdt3N_4qWooSYyCQo_k5CnbfY91hI3svi7ajlkJ8dd-fJCDC-M7Q7q7=s30",
+    "waypoints": [
+      {
+        "name": "Gare De Varangeville",
+        "type": "hack",
+        "coords": [
+          48.6352,
+          6.313092
+        ]
+      },
+      {
+        "name": "Hotel De Ville",
+        "type": "hack",
+        "coords": [
+          48.634273,
+          6.313258
+        ]
+      },
+      {
+        "name": "Café De L'Est ",
+        "type": "hack",
+        "coords": [
+          48.635148,
+          6.312551
+        ]
+      },
+      {
+        "name": "Varangéville - Gravure",
+        "type": "hack",
+        "coords": [
+          48.63476,
+          6.311315
+        ]
+      },
+      {
+        "name": "Monument Aux Morts De Varangéville",
+        "type": "hack",
+        "coords": [
+          48.63438,
+          6.310486
+        ]
+      },
+      {
+        "name": "Mission 1949",
+        "type": "hack",
+        "coords": [
+          48.636593,
+          6.31227
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "ek82aHEydTFnV0pLNE1OWFQ4RVEvTUJJM21XeXRaenJ5c2hFMnVHKzdOYUZLWGlrZVhmUW1rRWJpWWZFZGV2Yw==",
+    "name": "Vaudeville",
+    "coords": [
+      48.45857,
+      6.204862
+    ],
+    "icon": "https://lh3.googleusercontent.com/oLy2NBaud7KXlkKhzOmbii56Zy4hD84j-XAjC91eyP3eNhoB3PIh4IoUDK5hUqOeaW6SMoskiQCp3zka438=s30",
+    "waypoints": [
+      {
+        "name": "Croix sur un mur - Vaudeville",
+        "type": "hack",
+        "coords": [
+          48.45857,
+          6.204862
+        ]
+      },
+      {
+        "name": "Fontaine de la place du village - Vaudeville",
+        "type": "hack",
+        "coords": [
+          48.458578,
+          6.202662
+        ]
+      },
+      {
+        "name": "Croix De Vaudeville ",
+        "type": "hack",
+        "coords": [
+          48.457871,
+          6.200194
+        ]
+      },
+      {
+        "name": "Vaudeville - Église Saint-Martin",
+        "type": "hack",
+        "coords": [
+          48.458461,
+          6.198654
+        ]
+      },
+      {
+        "name": "Mairie De Vaudeville",
+        "type": "hack",
+        "coords": [
+          48.458836,
+          6.199571
+        ]
+      },
+      {
+        "name": "Vaudeville  Croix De Chemin",
+        "type": "hack",
+        "coords": [
+          48.459647,
+          6.199066
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "Z3l3NW4yZDljeWg2RFpCVTZQTlNSMXlUdnM5ZE8zUEtBaitlYlpFTFBTNHZObGlTcDVORGVEblA2dE9uYitydw==",
+    "name": "Velaine-en-Haye",
+    "coords": [
+      48.699771,
+      6.062158
+    ],
+    "icon": "https://lh3.googleusercontent.com/S-dba-QERrrYtbTqjmXmuxkXFMlJwXkL8V1U0gjerePG5_xV9UHBTkmj5veuuh6G7Yo9eShZizOYxUp14KQg=s30",
+    "waypoints": [
+      {
+        "name": "ASNL",
+        "type": "hack",
+        "coords": [
+          48.699771,
+          6.062158
+        ]
+      },
+      {
+        "name": "Musée de l'Automobile",
+        "type": "hack",
+        "coords": [
+          48.698192,
+          6.061259
+        ]
+      },
+      {
+        "name": "Sculpture Femme Assises",
+        "type": "hack",
+        "coords": [
+          48.701011,
+          6.064242
+        ]
+      },
+      {
+        "name": "Velaine En Haye - Château d'Eau",
+        "type": "hack",
+        "coords": [
+          48.694201,
+          6.03103
+        ]
+      },
+      {
+        "name": "Geoconde",
+        "type": "hack",
+        "coords": [
+          48.69628,
+          6.029828
+        ]
+      },
+      {
+        "name": "Église de Velaine-en-Haye",
+        "type": "hack",
+        "coords": [
+          48.703655,
+          6.020794
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "R2pSYmdDcUFKYlJSSG9nSnZZRXB1eGUrUk5ISytVSVdJVXkwMFNTbzBuNHJYdm1nbHZvN1lMZk5xU0JDb1FFNg==",
+    "name": "Ventron",
+    "coords": [
+      47.940636,
+      6.871252
+    ],
+    "icon": "https://lh3.googleusercontent.com/04gSc3ArFbHZKsPTniROViVHs3e2PhMkklkiOhVT88l2MlJQ7n_qYrdMIjHPS3oaWhQZ1EROf4rY6nOE8kY0=s30",
+    "waypoints": [
+      {
+        "name": "Dame Du Venton",
+        "type": "hack",
+        "coords": [
+          47.940636,
+          6.871252
+        ]
+      },
+      {
+        "name": "Inri Du Venton",
+        "type": "hack",
+        "coords": [
+          47.940387,
+          6.870308
+        ]
+      },
+      {
+        "name": "Statue De Ventron",
+        "type": "hack",
+        "coords": [
+          47.940543,
+          6.871716
+        ]
+      },
+      {
+        "name": "Eglise De Ventron",
+        "type": "hack",
+        "coords": [
+          47.940307,
+          6.87153
+        ]
+      },
+      {
+        "name": "Eglise de Travexin",
+        "type": "hack",
+        "coords": [
+          47.943627,
+          6.834084
+        ]
+      },
+      {
+        "name": "Maria Beeld ",
+        "type": "hack",
+        "coords": [
+          47.943653,
+          6.833634
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "NFA4dVNCVkZDQUJqZDF3aUhQNkVDcUczWFNpZ0l2eXhOYXpvK1ptSHRWR3pFalBsMFY4NWlmSHhaTmJTbWZUUQ==",
+    "name": "Villers-lès-Nancy",
+    "coords": [
+      48.665819,
+      6.157105
+    ],
+    "icon": "https://lh3.googleusercontent.com/2fibo6KujIiD0mOuiDhGa4JsgELZxZvDvfecRMSMy-fLBVBCHYSJJOcqfs4UnUIFRMOddiN5m7u6S6Ypyj8u=s30",
+    "waypoints": [
+      {
+        "name": "Inria Nancy Grand Est",
+        "type": "hack",
+        "coords": [
+          48.665819,
+          6.157105
+        ]
+      },
+      {
+        "name": "Villers - Jardin Botanique du Montet",
+        "type": "hack",
+        "coords": [
+          48.662468,
+          6.155373
+        ]
+      },
+      {
+        "name": "Lycée Stanislas",
+        "type": "hack",
+        "coords": [
+          48.663373,
+          6.153048
+        ]
+      },
+      {
+        "name": "Château de Remicourt",
+        "type": "hack",
+        "coords": [
+          48.666523,
+          6.151283
+        ]
+      },
+      {
+        "name": "Graffigny - Entrée du Parc",
+        "type": "hack",
+        "coords": [
+          48.670395,
+          6.146725
+        ]
+      },
+      {
+        "name": "Graffigny - Lavoir",
+        "type": "hack",
+        "coords": [
+          48.669501,
+          6.14526
+        ]
+      },
+      {
+        "name": "Souvenir Anciens Combattants De Villers",
+        "type": "hack",
+        "coords": [
+          48.66916,
+          6.145278
+        ]
+      },
+      {
+        "name": "Église Saint Fiacre",
+        "type": "hack",
+        "coords": [
+          48.669006,
+          6.144961
+        ]
+      },
+      {
+        "name": "Villers - Stèle Jumelage",
+        "type": "hack",
+        "coords": [
+          48.668945,
+          6.144421
+        ]
+      },
+      {
+        "name": "Villers les Nancy - Place du Souvenir Français",
+        "type": "hack",
+        "coords": [
+          48.671198,
+          6.142891
+        ]
+      },
+      {
+        "name": "Villers-Lès-Nancy - Poste",
+        "type": "hack",
+        "coords": [
+          48.672687,
+          6.154499
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "eEQ1VFBaMkV3V0dUU1ZHTlBkdjRPckFvaWZmbkVsN1RpMGQrd3loTS9OZjdrL2Z6cFp6S0tNTTVhcElWWElTaA==",
+    "name": "Virecourt",
+    "coords": [
+      48.468021,
+      6.322565
+    ],
+    "icon": "https://lh3.googleusercontent.com/oaccdUnAjTlrNBZkA1VY4Larx0FHAQ5qLDFzZmhmPokwsLxV5A4i98gdlT_h1YKlSo829Ta9eY16YpFIhmP4ug=s30",
+    "waypoints": [
+      {
+        "name": "Bayon - Gare",
+        "type": "hack",
+        "coords": [
+          48.468021,
+          6.322565
+        ]
+      },
+      {
+        "name": "Musée Des Oubliés Bayon",
+        "type": "hack",
+        "coords": [
+          48.468174,
+          6.322084
+        ]
+      },
+      {
+        "name": "Virecourt - Église Saint-Servan",
+        "type": "hack",
+        "coords": [
+          48.461385,
+          6.320278
+        ]
+      },
+      {
+        "name": "Virecourt - Entrée du cimetière",
+        "type": "hack",
+        "coords": [
+          48.461509,
+          6.322891
+        ]
+      },
+      {
+        "name": "Virecourt - Centenaire de la République Française",
+        "type": "hack",
+        "coords": [
+          48.462983,
+          6.318575
+        ]
+      },
+      {
+        "name": "Virecourt - Mairie",
+        "type": "hack",
+        "coords": [
+          48.462945,
+          6.318327
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "b1ZCWWgzY2lJVGlwUXlKYlhZOU5uWnoyKzd5STFpeGJ1cktMaGExVUVka2drMjhHTFYxQzcyNzV4bDhhU1VTWQ==",
+    "name": "Visite d'Abreschviller",
+    "coords": [
+      48.639146,
+      7.09125
+    ],
+    "icon": "https://lh3.googleusercontent.com/x10CtzOazoSXZI0ZgEVJ8mT_pJEcjkOkSXzqvK9WPR4xAWzYNB-63-H7xjlNGn5Y7NSUkjQY7mAsJSipdVfGiw=s30",
+    "waypoints": [
+      {
+        "name": "Fontaine",
+        "type": "hack",
+        "coords": [
+          48.639146,
+          7.09125
+        ]
+      },
+      {
+        "name": "Chapelle Sainte-Veronique ",
+        "type": "hack",
+        "coords": [
+          48.637279,
+          7.094844
+        ]
+      },
+      {
+        "name": "Église d'Abreschviller",
+        "type": "hack",
+        "coords": [
+          48.637256,
+          7.095572
+        ]
+      },
+      {
+        "name": "La commune d'Abreschviller à ses Enfants",
+        "type": "hack",
+        "coords": [
+          48.63721,
+          7.095918
+        ]
+      },
+      {
+        "name": "Mairie d'Abreschviller",
+        "type": "hack",
+        "coords": [
+          48.636794,
+          7.096306
+        ]
+      },
+      {
+        "name": "Lavoir ancien d'Abreschviller",
+        "type": "hack",
+        "coords": [
+          48.637533,
+          7.097944
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "bjZFb3JCYlpGY3RoM0UzUU1NZ2pQZTNSRUY3K2krcWtRaDYyODd5RkRRUDdJbDBITGtIejFyWEo3TjJIRit1Vw==",
+    "name": "Visite d'Essey les Nancy",
+    "coords": [
+      48.703785,
+      6.222879
+    ],
+    "icon": "https://lh3.googleusercontent.com/923hEegBJICAes69k2MlDLPvWW73o_pr38F01VH8RCz_hat6_xW1Kb2ptERuWox3IEo0SpxXjvZ4-Ae2sqbo=s30",
+    "waypoints": [
+      {
+        "name": "Église Pie X",
+        "type": "hack",
+        "coords": [
+          48.703785,
+          6.222879
+        ]
+      },
+      {
+        "name": "Poste d'Essey-lès-Nancy",
+        "type": "hack",
+        "coords": [
+          48.705672,
+          6.222275
+        ]
+      },
+      {
+        "name": "Crucifixion",
+        "type": "hack",
+        "coords": [
+          48.70559,
+          6.219158
+        ]
+      },
+      {
+        "name": "Saint-Max - Cimetière",
+        "type": "hack",
+        "coords": [
+          48.708365,
+          6.215575
+        ]
+      },
+      {
+        "name": "Église Saint Georges d'Essey",
+        "type": "hack",
+        "coords": [
+          48.708812,
+          6.221018
+        ]
+      },
+      {
+        "name": "Vierge Essey",
+        "type": "hack",
+        "coords": [
+          48.7086,
+          6.221324
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "Y1BBZWxTUEtDWFBNa21ZclJCdTlNZ0V2QnpBVnhUSHdSOWhiZnpWM05Nck8xanNEZGdOMzY3K2FKT0g2ZHNINA==",
+    "name": "Visite d'Eulmont",
+    "coords": [
+      48.748534,
+      6.223948
+    ],
+    "icon": "https://lh3.googleusercontent.com/2WVsS10Wq_8EPj9MfAjFKo2Ll0jZsBeH2leAswj8e4orY6rYS_eRrWoeYoP82oNCqnR74Y0OoE3Wa854L42_=s30",
+    "waypoints": [
+      {
+        "name": "Croix d'Eulmont",
+        "type": "hack",
+        "coords": [
+          48.748534,
+          6.223948
+        ]
+      },
+      {
+        "name": "Eulmont - Lavoir",
+        "type": "hack",
+        "coords": [
+          48.749069,
+          6.221025
+        ]
+      },
+      {
+        "name": "Eglise",
+        "type": "hack",
+        "coords": [
+          48.750793,
+          6.224053
+        ]
+      },
+      {
+        "name": "Monument Aux Morts D'Eulmont",
+        "type": "hack",
+        "coords": [
+          48.75077,
+          6.224308
+        ]
+      },
+      {
+        "name": "Fontaine Eulmont",
+        "type": "hack",
+        "coords": [
+          48.750664,
+          6.224609
+        ]
+      },
+      {
+        "name": "Notre Dame D'Eulmont",
+        "type": "hack",
+        "coords": [
+          48.753517,
+          6.22685
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "RVZ3RjN0Qm43bm1Vb2IwVWZmZ3Nad1V4UWNwTGdmTVdlYlpaa1J3cDFGRjlNMnkvT1hUS281WVhkWFdOcXpBZA==",
+    "name": "Visite de  Kerprich aux Bois",
+    "coords": [
+      48.741354,
+      6.961308
+    ],
+    "icon": "https://lh3.googleusercontent.com/q6z_paJeqzSpz-nUkii-T5pPMqQ0j76F9hRsphsPpbch7jDzU3qSAL341_fde_7zqB5MfZwd9_7Tlfc5Y0vztg=s30",
+    "waypoints": [
+      {
+        "name": "Kerprich-Aux-Bois - Notre Dame des 7 douleurs",
+        "type": "hack",
+        "coords": [
+          48.741354,
+          6.961308
+        ]
+      },
+      {
+        "name": "Kerprich-Aux-Bois - Croix à la Vierge",
+        "type": "hack",
+        "coords": [
+          48.74012,
+          6.959584
+        ]
+      },
+      {
+        "name": "Kerprich aux bois - Carte des Sentiers et Pistes Cyclables",
+        "type": "hack",
+        "coords": [
+          48.739183,
+          6.960011
+        ]
+      },
+      {
+        "name": "Kerprich-Aux-Bois - Église ",
+        "type": "hack",
+        "coords": [
+          48.738392,
+          6.960118
+        ]
+      },
+      {
+        "name": "Kerprich-Aux-Bois - À ses morts",
+        "type": "hack",
+        "coords": [
+          48.738157,
+          6.96086
+        ]
+      },
+      {
+        "name": "Kerprich-Aux-Bois - In Hominem Savator",
+        "type": "hack",
+        "coords": [
+          48.737175,
+          6.968772
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "dXBjM05sOE10anprZnR1N0NmclVSbzBaR0VRUlNwU1hsRDZQNDEwT05qcWNFMGNOLzFteHhscEFXSzUySzEzQg==",
+    "name": "Visite de Custines",
+    "coords": [
+      48.791064,
+      6.141592
+    ],
+    "icon": "https://lh3.googleusercontent.com/v1cs8ASInlCm0HqzMzSpg_frQ3Bv7Lio89904BHoaSId4CKz60PCVs10J0qlab09MTWEO0q5PPOS7e91H-6S=s30",
+    "waypoints": [
+      {
+        "name": "La Poste De Custines",
+        "type": "hack",
+        "coords": [
+          48.791064,
+          6.141592
+        ]
+      },
+      {
+        "name": "Lavoir De Custines",
+        "type": "hack",
+        "coords": [
+          48.791216,
+          6.14148
+        ]
+      },
+      {
+        "name": "Custines - Église",
+        "type": "hack",
+        "coords": [
+          48.79147,
+          6.141127
+        ]
+      },
+      {
+        "name": "Monument Aux Morts De Custines",
+        "type": "hack",
+        "coords": [
+          48.791481,
+          6.141401
+        ]
+      },
+      {
+        "name": "Mairie De Custines",
+        "type": "hack",
+        "coords": [
+          48.791366,
+          6.142162
+        ]
+      },
+      {
+        "name": "Hommage - 10 Septembre 1944 Custines ",
+        "type": "hack",
+        "coords": [
+          48.791608,
+          6.143831
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "dUwwdHR6UmpycE5BeUwrU09tSjNsTUpwL1BpZXN1WHZKcDlWSVEwNjhIaFpCVUZqcmJCSDVPVnhSK0x1Vkx4MQ==",
+    "name": "Visite de Dieuze",
+    "coords": [
+      48.813872,
+      6.720761
+    ],
+    "icon": "https://lh3.googleusercontent.com/j5e0IyecgybWu0dYd3ONCsw2bb-7axe45uW8vQlVv_hOOM1fcjpekX6EtHmLtdY9UfzEgpb3AzSKGJQ3zfbl=s30",
+    "waypoints": [
+      {
+        "name": "Dieuze - Stade Jean Mermoz",
+        "type": "hack",
+        "coords": [
+          48.813872,
+          6.720761
+        ]
+      },
+      {
+        "name": "Dieuze - randonnées pédestre",
+        "type": "hack",
+        "coords": [
+          48.809101,
+          6.721464
+        ]
+      },
+      {
+        "name": "Dieuze - Église Sainte Marie Madeleine",
+        "type": "hack",
+        "coords": [
+          48.810993,
+          6.72048
+        ]
+      },
+      {
+        "name": "Dieuze - La poste",
+        "type": "hack",
+        "coords": [
+          48.812269,
+          6.714888
+        ]
+      },
+      {
+        "name": "fresque murale \"le café du bon coin\" DIEUZE ",
+        "type": "hack",
+        "coords": [
+          48.812256,
+          6.71723
+        ]
+      },
+      {
+        "name": "Dieuze - La Porte Des Salines ",
+        "type": "hack",
+        "coords": [
+          48.812652,
+          6.717337
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "STAzR0o0UldlR2NBMUlWUWRsbHlMY2FkMlF2Q1NudHg1eGdNZFAwU2pNTVF2Q2djUm5PV2lYS1ZjeGRqQ1J5cg==",
+    "name": "Visite de Dolving",
+    "coords": [
+      48.781997,
+      7.016661
+    ],
+    "icon": "https://lh3.googleusercontent.com/B8loD5KpgxmjfvBM7eUrrNse83Atb-I-epV25icRUrY2qh3Ovw0KCV9LzfiajYpJUoWrHR4gsZS96rOcNx4=s30",
+    "waypoints": [
+      {
+        "name": "Dolving - INRI",
+        "type": "hack",
+        "coords": [
+          48.781997,
+          7.016661
+        ]
+      },
+      {
+        "name": "Dolving - Calvaire niche vide",
+        "type": "hack",
+        "coords": [
+          48.778133,
+          7.018432
+        ]
+      },
+      {
+        "name": "Dolving - Crucifix",
+        "type": "hack",
+        "coords": [
+          48.77717,
+          7.017189
+        ]
+      },
+      {
+        "name": "Dolving - Kreutz",
+        "type": "hack",
+        "coords": [
+          48.774736,
+          7.018454
+        ]
+      },
+      {
+        "name": "Dolving - O Crux Ave Spes Unica",
+        "type": "hack",
+        "coords": [
+          48.773771,
+          7.019304
+        ]
+      },
+      {
+        "name": "Dolving - Fontaine En Grès 1833",
+        "type": "hack",
+        "coords": [
+          48.773725,
+          7.019654
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "blArclJHMFFVZUlZZWg0UVJXSlZhbEZkYXdSengwaW9HcWdoQUR1RmlMVlFxYmN6aDIzNWgwblRZL0J6U3NrVg==",
+    "name": "Visite de Frouard",
+    "coords": [
+      48.760073,
+      6.129305
+    ],
+    "icon": "https://lh3.googleusercontent.com/vW1cxsuJtZJwgdBTrUDL5h_mq7vX0AYoljzFyOeWzxATV-y-Bobrx9xn-IPaOVaAFl7Yds84y3Hdu1Yp0X7j1Q=s30",
+    "waypoints": [
+      {
+        "name": "Théâtre Gérard Philipe",
+        "type": "hack",
+        "coords": [
+          48.760073,
+          6.129305
+        ]
+      },
+      {
+        "name": "Frouard - Mairie",
+        "type": "hack",
+        "coords": [
+          48.760863,
+          6.129556
+        ]
+      },
+      {
+        "name": "Fresque de Frouard",
+        "type": "hack",
+        "coords": [
+          48.760871,
+          6.130118
+        ]
+      },
+      {
+        "name": "Frouard - Médiathèque",
+        "type": "hack",
+        "coords": [
+          48.760785,
+          6.132191
+        ]
+      },
+      {
+        "name": "Eaux De Frouard",
+        "type": "hack",
+        "coords": [
+          48.75645,
+          6.139066
+        ]
+      },
+      {
+        "name": "Frouard - Église",
+        "type": "hack",
+        "coords": [
+          48.754734,
+          6.140581
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "K2N4ZTJYd1lWWGFqWHJ3UzRRYlVnVWdOd2FGQkdTVXBQL2QxcW5wblhUSEYzYWdwajhkQkZZcnh6WExMNUJlbA==",
+    "name": "Visite de Gogney",
+    "coords": [
+      48.612598,
+      6.857098
+    ],
+    "icon": "https://lh3.googleusercontent.com/7YfZQsr_EdRNdO6Qs1esjvCx6ngFJ5RelVHPMqeYg5IpsvhtUjWiGWxU638dmNpe0wspJ37yNWC-5u-wyiY=s30",
+    "waypoints": [
+      {
+        "name": "Gogney - Mairie ",
+        "type": "hack",
+        "coords": [
+          48.612598,
+          6.857098
+        ]
+      },
+      {
+        "name": "Gogney - Église ",
+        "type": "hack",
+        "coords": [
+          48.612767,
+          6.857527
+        ]
+      },
+      {
+        "name": "Gogney - Fontaine ",
+        "type": "hack",
+        "coords": [
+          48.613193,
+          6.85823
+        ]
+      },
+      {
+        "name": "Gogney - Fontaine #2",
+        "type": "hack",
+        "coords": [
+          48.613654,
+          6.859251
+        ]
+      },
+      {
+        "name": "Gogney - Pays de la Vezouze",
+        "type": "hack",
+        "coords": [
+          48.6132,
+          6.859978
+        ]
+      },
+      {
+        "name": "Gogney - Croix sous les arbres ",
+        "type": "hack",
+        "coords": [
+          48.611754,
+          6.862413
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "ZENIaHE2SUJsZVNERGduSWNaOVJnZmk0SjJJTk95WnRjWll3aW1Id0Z6QnYvUklXUzF5UXFETlN3amJGZTEvMg==",
+    "name": "Visite de Gondreville",
+    "coords": [
+      48.690795,
+      5.959293
+    ],
+    "icon": "https://lh3.googleusercontent.com/EXbrV6gazdWoV9R5JJTh4lHVCKXL82Tt02REaC9i6kbm1MUcf-d8W9jYkyand1CE2ExDyuNXyuPrw0XtAgdLBQ=s30",
+    "waypoints": [
+      {
+        "name": "Fontaine De Gondreville",
+        "type": "hack",
+        "coords": [
+          48.690795,
+          5.959293
+        ]
+      },
+      {
+        "name": "Porte D'en Haut",
+        "type": "hack",
+        "coords": [
+          48.691413,
+          5.959068
+        ]
+      },
+      {
+        "name": "Gondreville-Statue Notre Dame",
+        "type": "hack",
+        "coords": [
+          48.692307,
+          5.957996
+        ]
+      },
+      {
+        "name": "Mairie",
+        "type": "hack",
+        "coords": [
+          48.692854,
+          5.958857
+        ]
+      },
+      {
+        "name": "Église Notre Dame",
+        "type": "hack",
+        "coords": [
+          48.692979,
+          5.959161
+        ]
+      },
+      {
+        "name": "Maison Des Dîmes ",
+        "type": "hack",
+        "coords": [
+          48.693496,
+          5.959311
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "K1NUbW1ZSDh4OXFmS2VRcmNvZ25uMHJOZXI4V2phb3JoVFQ4TFNXLzFuY1lFTDRNaFR5OVJyQUoxcmEvMnRhZQ==",
+    "name": "Visite de Gosselming",
+    "coords": [
+      48.793118,
+      6.999642
+    ],
+    "icon": "https://lh3.googleusercontent.com/7IAUUcULiH6PTQP3_D2XRyFuGFryRegTKCS5C-Ab6GKYDrJW46ydFA42fQX03kpA1eTasV95ReH1FSFLEzqk=s30",
+    "waypoints": [
+      {
+        "name": "Gosselming - Communauté de commune du Pays de Fénétrange",
+        "type": "hack",
+        "coords": [
+          48.793118,
+          6.999642
+        ]
+      },
+      {
+        "name": "Gosselming - Jesus sur la croix ",
+        "type": "hack",
+        "coords": [
+          48.793358,
+          6.999519
+        ]
+      },
+      {
+        "name": "Gosselming - Post Office",
+        "type": "hack",
+        "coords": [
+          48.792802,
+          7.001486
+        ]
+      },
+      {
+        "name": "Gosselming - Église ",
+        "type": "hack",
+        "coords": [
+          48.792015,
+          7.002146
+        ]
+      },
+      {
+        "name": "Gosselming - Calvaire à l’œil de la providence ",
+        "type": "hack",
+        "coords": [
+          48.790977,
+          7.003543
+        ]
+      },
+      {
+        "name": "Gosselming - À nos morts",
+        "type": "hack",
+        "coords": [
+          48.790762,
+          7.004453
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "TmFNZHBnOFI0VTNDSDhkRWFod2Jwbmt6clU4NU94V1JobVJHcVd4Mk5nOElUMHdhbzdjVktmMmRPclplZzVuVg==",
+    "name": "Visite de Hartzviller",
+    "coords": [
+      48.66916,
+      7.085804
+    ],
+    "icon": "https://lh3.googleusercontent.com/imtAg4eJPqQDSgxdT2ySkrfUIhUqV1hrn_0ofInmAddUC-npO_LiWVKawUWvN-mY_f-NctOZkrl6IjLzPvyw=s30",
+    "waypoints": [
+      {
+        "name": "Monument aux Morts",
+        "type": "hack",
+        "coords": [
+          48.66916,
+          7.085804
+        ]
+      },
+      {
+        "name": "Fontaine",
+        "type": "hack",
+        "coords": [
+          48.669878,
+          7.087306
+        ]
+      },
+      {
+        "name": "Colonne Gravée",
+        "type": "hack",
+        "coords": [
+          48.670598,
+          7.085815
+        ]
+      },
+      {
+        "name": "Statue Saint-Louis",
+        "type": "hack",
+        "coords": [
+          48.670892,
+          7.084987
+        ]
+      },
+      {
+        "name": "Statue Saint Laurent",
+        "type": "hack",
+        "coords": [
+          48.670919,
+          7.084777
+        ]
+      },
+      {
+        "name": "Place Saint Laurent",
+        "type": "hack",
+        "coords": [
+          48.670918,
+          7.084411
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "MVZzZkM2Qlo0TktJZm9NUUxnbmVKZXloQVR4cXVsTk05NmNWZHhkUlpyaXRUWldKRFpjQlBGbVBnQWhoamdPTA==",
+    "name": "Visite de Hesse",
+    "coords": [
+      48.695684,
+      7.045779
+    ],
+    "icon": "https://lh3.googleusercontent.com/pH6H6OHf3Uz9XYMsEpjHU19PiCC64BIpWCuuHTGv31_YHgWNWRnAKO2X-dNWwfxD4Mx809S7JYwIXxf2wNju5w=s30",
+    "waypoints": [
+      {
+        "name": "Blason De Hesse",
+        "type": "hack",
+        "coords": [
+          48.695684,
+          7.045779
+        ]
+      },
+      {
+        "name": "Sculpture",
+        "type": "hack",
+        "coords": [
+          48.695602,
+          7.04615
+        ]
+      },
+      {
+        "name": "Arche De Hesse",
+        "type": "hack",
+        "coords": [
+          48.695609,
+          7.046632
+        ]
+      },
+      {
+        "name": "Monument aux morts",
+        "type": "hack",
+        "coords": [
+          48.695465,
+          7.047944
+        ]
+      },
+      {
+        "name": "Eglise de Hesse",
+        "type": "hack",
+        "coords": [
+          48.69546,
+          7.048269
+        ]
+      },
+      {
+        "name": "Petite Fontaine",
+        "type": "hack",
+        "coords": [
+          48.695024,
+          7.048273
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "MW0yclppZHR6ZFcwZVFpZkJRT2Zla0ZGYko0T3A1bHhGSWtRejVIWWVRVlFTMms3WHMwM0M2R1hMdFF0dXZVNw==",
+    "name": "Visite de Langatte",
+    "coords": [
+      48.756468,
+      6.979908
+    ],
+    "icon": "https://lh3.googleusercontent.com/-cow1yodQv2qE_eLRIyf2sTFLCoVSvy9ZaLrfS0LYzCvGA2YYC-zR0SJ5XAk_NpcIRHu9FSdjkNXbj9u1RBE1g=s30",
+    "waypoints": [
+      {
+        "name": "Langatte - Mairie",
+        "type": "hack",
+        "coords": [
+          48.756468,
+          6.979908
+        ]
+      },
+      {
+        "name": "Langatte - Communauté de communes de l'Étang du Stock",
+        "type": "hack",
+        "coords": [
+          48.756606,
+          6.980328
+        ]
+      },
+      {
+        "name": "Langatte - Salle des fêtes ",
+        "type": "hack",
+        "coords": [
+          48.756418,
+          6.980352
+        ]
+      },
+      {
+        "name": "Langatte - A ses enfants morts pour la Liberté ",
+        "type": "hack",
+        "coords": [
+          48.756626,
+          6.980718
+        ]
+      },
+      {
+        "name": "Langatte - Statuette vierge Marie",
+        "type": "hack",
+        "coords": [
+          48.756439,
+          6.980828
+        ]
+      },
+      {
+        "name": "Langatte - Voie de la 2ème Division Blindée",
+        "type": "hack",
+        "coords": [
+          48.756255,
+          6.98074
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "a0s5YVRadzB2Ymt5SnkwS1ZLRFo1NGFuazZOblRZWFhsNGN5bWFKZ2hDV0dtTVpWN0RRSE1oNlg5bzBYeEU0Lw==",
+    "name": "Visite de Lorquin",
+    "coords": [
+      48.66739,
+      6.990474
+    ],
+    "icon": "https://lh3.googleusercontent.com/bBqoGnY1-XvbWl7wvaiYqHvLwznxwoqKgQNCfR1Bkwy9-TRIjLpkyzSZ70yzk3sQEG4ATIuY9xNWPfKtRvTFiA=s30",
+    "waypoints": [
+      {
+        "name": "Chapelle Saint-Anne",
+        "type": "hack",
+        "coords": [
+          48.66739,
+          6.990474
+        ]
+      },
+      {
+        "name": "Calvaire Lorquin",
+        "type": "hack",
+        "coords": [
+          48.667601,
+          6.990938
+        ]
+      },
+      {
+        "name": "Mairie De lorquin",
+        "type": "hack",
+        "coords": [
+          48.668718,
+          6.994605
+        ]
+      },
+      {
+        "name": "Église ",
+        "type": "hack",
+        "coords": [
+          48.669195,
+          6.99579
+        ]
+      },
+      {
+        "name": "Monument Des Anciens Combattants",
+        "type": "hack",
+        "coords": [
+          48.669939,
+          6.997268
+        ]
+      },
+      {
+        "name": "Chapelle Notre Dame Des Ermite",
+        "type": "hack",
+        "coords": [
+          48.670852,
+          6.999087
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "a1p4UFVwcW5XOGd1M1dOekZNM0RyVG5oNXNUbFcrbkV1S0VCQkVVMDRtYXlBeHduaWVEUjZ5UFNqWDIySWRkNA==",
+    "name": "Visite de Phalsbourg",
+    "coords": [
+      48.766472,
+      7.260703
+    ],
+    "icon": "https://lh3.googleusercontent.com/WNBeIxB98S4QlYv560DN-xTNcFRG4TMZ4yeBtim0xGVWscEVCZxO_zvg1XerYCbFyql_u-bF4txQASuUdO4=s30",
+    "waypoints": [
+      {
+        "name": "Porte D'Allemagne",
+        "type": "hack",
+        "coords": [
+          48.766472,
+          7.260703
+        ]
+      },
+      {
+        "name": "Phalsbourg - Statue du Maréchal Mouton",
+        "type": "hack",
+        "coords": [
+          48.767029,
+          7.258804
+        ]
+      },
+      {
+        "name": "Phalsbourg - Monument Erckmann et Chatrian",
+        "type": "hack",
+        "coords": [
+          48.768221,
+          7.25863
+        ]
+      },
+      {
+        "name": "Phalsbourg - Porte De France ",
+        "type": "hack",
+        "coords": [
+          48.768534,
+          7.256435
+        ]
+      },
+      {
+        "name": "Phalsbourg - Église notre Dame de l’assomption ",
+        "type": "hack",
+        "coords": [
+          48.766777,
+          7.258014
+        ]
+      },
+      {
+        "name": "Statue Aux Phalsbourgeois",
+        "type": "hack",
+        "coords": [
+          48.767877,
+          7.253692
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "c1dUa2V0M3hublVicTRmei8yc0tRVE5HYUNoWnhYYVcxS1pXL0ZDTTZhclNKZDBzdU40QlFwdEtrS05rWS8wVA==",
+    "name": "Visite de Réding",
+    "coords": [
+      48.742855,
+      7.095717
+    ],
+    "icon": "https://lh3.googleusercontent.com/8Hbgx1bWaiZG9WwM3tfoQm0eGmHODAJmXZ0if1SZ75hRpCeY613l49e7xnUA8v4yJAuIw7ewquyGKrzSHg=s30",
+    "waypoints": [
+      {
+        "name": "Gare De Réding",
+        "type": "hack",
+        "coords": [
+          48.742855,
+          7.095717
+        ]
+      },
+      {
+        "name": "Ancienne Pompe Des Pompiers De Réding",
+        "type": "hack",
+        "coords": [
+          48.744568,
+          7.097115
+        ]
+      },
+      {
+        "name": "Fontaine De Reding",
+        "type": "hack",
+        "coords": [
+          48.745567,
+          7.097553
+        ]
+      },
+      {
+        "name": "Église De Reding",
+        "type": "hack",
+        "coords": [
+          48.750796,
+          7.106043
+        ]
+      },
+      {
+        "name": "Plaque Hommage",
+        "type": "hack",
+        "coords": [
+          48.750781,
+          7.102336
+        ]
+      },
+      {
+        "name": "Croix",
+        "type": "hack",
+        "coords": [
+          48.751025,
+          7.101249
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "Y01zcGpHTVhNV2ZtaW5MWE12ZDhWd0pEalVNRTFGbWw4eE52T2N5ZW1Qd1lFSUNjM0tZOUFDQ3I1N0tLMjZhSA==",
+    "name": "Visite de Saint Jean de Bassel",
+    "coords": [
+      48.800992,
+      6.987148
+    ],
+    "icon": "https://lh3.googleusercontent.com/M_ZJpMqc8k0r87mh513l0mWOyTJPVw9KpphJiOmyAuRfX3i2nGDA7NSt4mwjfH7uXrU266k3tx_2fJntOFv7=s30",
+    "waypoints": [
+      {
+        "name": "Saint-Jean de Bassel - Calvaire ",
+        "type": "hack",
+        "coords": [
+          48.800992,
+          6.987148
+        ]
+      },
+      {
+        "name": "Saint-Jean de Bassel - Mairie",
+        "type": "hack",
+        "coords": [
+          48.803991,
+          6.991165
+        ]
+      },
+      {
+        "name": "Saint-Jean de Bassel - À nos morts",
+        "type": "hack",
+        "coords": [
+          48.803877,
+          6.991409
+        ]
+      },
+      {
+        "name": "Saint-Jean de Bassel - Église St-Jean-Baptiste",
+        "type": "hack",
+        "coords": [
+          48.803658,
+          6.991365
+        ]
+      },
+      {
+        "name": "Saint-Jean de Bassel - Fontaine #1",
+        "type": "hack",
+        "coords": [
+          48.803295,
+          6.991405
+        ]
+      },
+      {
+        "name": "Saint-Jean de Bassel - Croix étroite ",
+        "type": "hack",
+        "coords": [
+          48.802823,
+          6.989518
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "Y3d0cjVvYjc0VE1sYTRDUmx1b0JhMVNacFFmY0lNblV6S1Z3Nng3Z3d3V2VMUEpwa0dBNzRRVEFoS0VxeTZmUA==",
+    "name": "Visite de Saint-Etienne",
+    "coords": [
+      45.440995,
+      4.385342
+    ],
+    "icon": "https://lh3.googleusercontent.com/cYycetXoVMIY3-aHcyORsyiwdddqGFtHL7K58EJ7yjvwM9vd7qr4acA2xjdLirLrtSmuBl9jkIjYBoi1EnjV=s30",
+    "waypoints": [
+      {
+        "name": "Croix de la Cathédrale Saint-Charles",
+        "type": "hack",
+        "coords": [
+          45.440995,
+          4.385342
+        ]
+      },
+      {
+        "name": "Jets d'eau place Jean Jaurès",
+        "type": "hack",
+        "coords": [
+          45.441266,
+          4.385956
+        ]
+      },
+      {
+        "name": "Kiosque à musique place Jean Jaurès",
+        "type": "hack",
+        "coords": [
+          45.441593,
+          4.38684
+        ]
+      },
+      {
+        "name": "Statue de Jean Jaurès",
+        "type": "hack",
+        "coords": [
+          45.440857,
+          4.387024
+        ]
+      },
+      {
+        "name": "Carillon Hôtel de Ville",
+        "type": "hack",
+        "coords": [
+          45.440478,
+          4.387221
+        ]
+      },
+      {
+        "name": "Hôtel de Ville",
+        "type": "hack",
+        "coords": [
+          45.439814,
+          4.387339
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "TjY4ejdRSGtFekJyY3NhOUpyZUxJcU9YVXlITEFvTUNEMVl6dGZTcGJYYi8rSEhGQU4rWTBmTmsxYytZL3ExNQ==",
+    "name": "Visite de Sarrebourg",
+    "coords": [
+      48.732718,
+      7.05243
+    ],
+    "icon": "https://lh3.googleusercontent.com/7-VrTRZbOyesy1QIftnaZ3e6VRlzFClLbb8VilylgVfzkDWelv6_NVakc6IB_oEWj9SpDQdblkWGZChyUISplw=s30",
+    "waypoints": [
+      {
+        "name": "Hotel De Ville Sarrebourg ",
+        "type": "hack",
+        "coords": [
+          48.732718,
+          7.05243
+        ]
+      },
+      {
+        "name": "Statue",
+        "type": "hack",
+        "coords": [
+          48.73484,
+          7.052649
+        ]
+      },
+      {
+        "name": "Vitrail De Chagall",
+        "type": "hack",
+        "coords": [
+          48.735247,
+          7.052864
+        ]
+      },
+      {
+        "name": "Chien D'aveugle",
+        "type": "hack",
+        "coords": [
+          48.735298,
+          7.053609
+        ]
+      },
+      {
+        "name": "Ancienne Poste",
+        "type": "hack",
+        "coords": [
+          48.736834,
+          7.054078
+        ]
+      },
+      {
+        "name": "Sculpture, Gare de Sarrebourg",
+        "type": "hack",
+        "coords": [
+          48.737908,
+          7.052863
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "ai8xQ09ncG9iSEp0OENDU3lPNUlQdXFYdEFid2xKUmUyeDZpSitVVzBjZzMyMFJlZ3RnQjUrbGNlUjZ1dWxZNw==",
+    "name": "Vittel",
+    "coords": [
+      48.202247,
+      5.942666
+    ],
+    "icon": "https://lh3.googleusercontent.com/qe9ktyv7bzRCyyPOE2XaM9vr_wIrBGNsyyRMMdwwsOKNKJHTRjcv9C-F3q4n8tklaSIF8Jt5eJxXAXwqe7Bc=s30",
+    "waypoints": [
+      {
+        "name": "Vittel - Hôtel de Ville",
+        "type": "hack",
+        "coords": [
+          48.202247,
+          5.942666
+        ]
+      },
+      {
+        "name": "Vittel - Casino",
+        "type": "hack",
+        "coords": [
+          48.204561,
+          5.942306
+        ]
+      },
+      {
+        "name": "Vittel - Logo",
+        "type": "hack",
+        "coords": [
+          48.203627,
+          5.944401
+        ]
+      },
+      {
+        "name": "Vittel - Continental",
+        "type": "hack",
+        "coords": [
+          48.203248,
+          5.943186
+        ]
+      },
+      {
+        "name": "Vittel - Chapelle St Paul",
+        "type": "hack",
+        "coords": [
+          48.203254,
+          5.941593
+        ]
+      },
+      {
+        "name": "Ambroise Bouloumie",
+        "type": "hack",
+        "coords": [
+          48.202729,
+          5.943681
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "MWFIcE5XM3pEeG9nR0M4WWpZSDJjSXJRS3IzWVN6NmVLaGQ5QXpHUWIySWo3Mys5cUlMN0RtWFVkQkJNSm44Zg==",
+    "name": "Void-Vacon",
+    "coords": [
+      48.687409,
+      5.618582
+    ],
+    "icon": "https://lh3.googleusercontent.com/WnWR6W5-wbDkiEMBIRwB_IIGCa8VJ4T-_SIw8PuFKbYNrmQJL8hUv_eyTVB7F_dODrSiN4vS5PDQbbr8Tc_W=s30",
+    "waypoints": [
+      {
+        "name": "Void,  Mairie",
+        "type": "hack",
+        "coords": [
+          48.687409,
+          5.618582
+        ]
+      },
+      {
+        "name": "Void, Croix ",
+        "type": "hack",
+        "coords": [
+          48.687593,
+          5.618831
+        ]
+      },
+      {
+        "name": "Void, Fontaine Ange Et Signe",
+        "type": "hack",
+        "coords": [
+          48.687483,
+          5.618884
+        ]
+      },
+      {
+        "name": "Void, Dessin Stylisé De L'Église",
+        "type": "hack",
+        "coords": [
+          48.68775,
+          5.618948
+        ]
+      },
+      {
+        "name": "Void, Statue De Vierge À L'enfant",
+        "type": "hack",
+        "coords": [
+          48.687325,
+          5.618562
+        ]
+      },
+      {
+        "name": "Void, Plaque Commémorative Pour Nicolas Joseph CUGNOT",
+        "type": "hack",
+        "coords": [
+          48.687194,
+          5.618214
+        ]
+      },
+      {
+        "name": "Void,  La Poste",
+        "type": "hack",
+        "coords": [
+          48.686965,
+          5.618084
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "NUs3QmtRUnFlSFIreW0vZUNTZGplRGtQM2xTV1RUSDhnTEQvWWl4MTVKbjF3eWt3T09PZFhmRkhJTXV3bjZydg==",
+    "name": "Vroncourt",
+    "coords": [
+      48.464515,
+      6.082335
+    ],
+    "icon": "https://lh3.googleusercontent.com/p9NSRrzuA6Lfe15Ou-pTr4fF81Bo1SEDd_04DnjpdYuwsqNopEyWjpIzJfqAP2uOZBiCJsGUXw9ebvkdz_t21g=s30",
+    "waypoints": [
+      {
+        "name": "Vroncourt : Fresque et sa vierge au dessus d'une porte",
+        "type": "hack",
+        "coords": [
+          48.464515,
+          6.082335
+        ]
+      },
+      {
+        "name": "Vroncourt : Abris Bus Scolaire",
+        "type": "hack",
+        "coords": [
+          48.464254,
+          6.081264
+        ]
+      },
+      {
+        "name": "Église De Vroncourt ",
+        "type": "hack",
+        "coords": [
+          48.463384,
+          6.080772
+        ]
+      },
+      {
+        "name": "Vroncourt : La boîte à Livres",
+        "type": "hack",
+        "coords": [
+          48.464921,
+          6.081023
+        ]
+      },
+      {
+        "name": "Vroncourt : Mairie",
+        "type": "hack",
+        "coords": [
+          48.46477,
+          6.080013
+        ]
+      },
+      {
+        "name": "Vroncourt : Musée agricole",
+        "type": "hack",
+        "coords": [
+          48.464501,
+          6.080068
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "SmY2TlM3VkJsU0U1ZXNIYTg0d3VEVHdyTGplZ2tja0xvOUVGWXQ5Q05rNUdyM001d0w4MUNaQ0U3d1laQmZVMg==",
+    "name": "Vézelise",
+    "coords": [
+      48.487511,
+      6.089312
+    ],
+    "icon": "https://lh3.googleusercontent.com/TWKeno9xOPGRAJlc9evCqTat-qlOzmwph0EF4GvFH0Z06f11diOa6xJs-McjaAT5GTDC-W9DEPlMm3iqdHULFQ=s30",
+    "waypoints": [
+      {
+        "name": "Statue Du Satyre Vézelise",
+        "type": "hack",
+        "coords": [
+          48.487511,
+          6.089312
+        ]
+      },
+      {
+        "name": "Halle De Vezelise",
+        "type": "hack",
+        "coords": [
+          48.487305,
+          6.088126
+        ]
+      },
+      {
+        "name": "Église St Come",
+        "type": "hack",
+        "coords": [
+          48.4865,
+          6.087241
+        ]
+      },
+      {
+        "name": "Vezelise - Fontaine",
+        "type": "hack",
+        "coords": [
+          48.487277,
+          6.085131
+        ]
+      },
+      {
+        "name": "Ancien Lavoir Vézelise ",
+        "type": "hack",
+        "coords": [
+          48.48779,
+          6.08442
+        ]
+      },
+      {
+        "name": "Vézelise - Aire de Jeux",
+        "type": "hack",
+        "coords": [
+          48.487157,
+          6.084248
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "amx1eUlwWGtQS1pVOFVYbmhsT0dDcCtaSjN6b2pCYXJodlE0Mm5PVTdFKzVMNmZReXJXL2NWVGJ1SDNFaldXcA==",
+    "name": "Wildenstein",
+    "coords": [
+      47.956388,
+      6.961594
+    ],
+    "icon": "https://lh3.googleusercontent.com/93jARqYmjx-cXL0B-2JLXrSfh97XdibFUhI9rcGrXK87-aZP5GfLBcQJPzQwjiseZcc2RfT5L6ZisE1CJ5J4=s30",
+    "waypoints": [
+      {
+        "name": "Tour Du Lac #03",
+        "type": "hack",
+        "coords": [
+          47.956388,
+          6.961594
+        ]
+      },
+      {
+        "name": "Tour Du Lac #02",
+        "type": "hack",
+        "coords": [
+          47.956125,
+          6.961455
+        ]
+      },
+      {
+        "name": "Tour Du Lac #01",
+        "type": "hack",
+        "coords": [
+          47.95559,
+          6.961421
+        ]
+      },
+      {
+        "name": "Tour Du Lac #00",
+        "type": "hack",
+        "coords": [
+          47.95539,
+          6.961411
+        ]
+      },
+      {
+        "name": "Lac De Kruth-Wildenstein - Bienvenue",
+        "type": "hack",
+        "coords": [
+          47.955067,
+          6.961325
+        ]
+      },
+      {
+        "name": "Tour Du Lac #33",
+        "type": "hack",
+        "coords": [
+          47.954394,
+          6.959279
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "dER4UEV1Q2dER1BUanYxekxsT21VVnNZTlhNbExSeGRWNGt4RmFzSFM5YTU2UFlxK2VFMU1UOWEwcUt5aVZUMQ==",
+    "name": "Xirocourt",
+    "coords": [
+      48.429627,
+      6.168933
+    ],
+    "icon": "https://lh3.googleusercontent.com/IwX6eFYB6k-1PphqMz5_tEfnuTyFMXAPpLnUiACprBr9vUcKvXrqmbGgBd2LIBqtTJBOFu6BUVNpudQ6JY8=s30",
+    "waypoints": [
+      {
+        "name": "Xirocourt - Église",
+        "type": "hack",
+        "coords": [
+          48.429627,
+          6.168933
+        ]
+      },
+      {
+        "name": "Xirocourt - Autel de la Vierge éplorée",
+        "type": "hack",
+        "coords": [
+          48.42999,
+          6.169075
+        ]
+      },
+      {
+        "name": "Xirocourt - Croix",
+        "type": "hack",
+        "coords": [
+          48.430225,
+          6.170313
+        ]
+      },
+      {
+        "name": "Chapelle De Xirocourt",
+        "type": "hack",
+        "coords": [
+          48.431716,
+          6.171539
+        ]
+      },
+      {
+        "name": "Ancien Lavoir De Xirocourt",
+        "type": "hack",
+        "coords": [
+          48.432573,
+          6.174796
+        ]
+      },
+      {
+        "name": "Xirocourt - Information Des Sentiers Pédestres",
+        "type": "hack",
+        "coords": [
+          48.429651,
+          6.176425
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "a0RtZEd0dDFuUUtNYitRdkJWY3g0UjVKUTUvU2h3b3daR05uQzh2TE5hcjNPVGpqanZJVlA2MlkvTzRVRUR1Zw==",
+    "name": "Xonrupt-Longemer",
+    "coords": [
+      48.081875,
+      6.926264
+    ],
+    "icon": "https://lh3.googleusercontent.com/miEoPV-AhkrwMkdGBgAjnzrEw7VzcTnJzME1WGeAy9sIGzs6d5V8tga4CgmHerONNjies359bmf6wyOJYGA=s30",
+    "waypoints": [
+      {
+        "name": "La Post Office",
+        "type": "hack",
+        "coords": [
+          48.081875,
+          6.926264
+        ]
+      },
+      {
+        "name": "Mairie Xonrupt",
+        "type": "hack",
+        "coords": [
+          48.081482,
+          6.925819
+        ]
+      },
+      {
+        "name": "Monument Aux Enfants Morts Pour La Patrie",
+        "type": "hack",
+        "coords": [
+          48.081138,
+          6.925726
+        ]
+      },
+      {
+        "name": "Église",
+        "type": "hack",
+        "coords": [
+          48.081261,
+          6.92617
+        ]
+      },
+      {
+        "name": "Chapelle Longemer",
+        "type": "hack",
+        "coords": [
+          48.076971,
+          6.945645
+        ]
+      },
+      {
+        "name": "Scierie Du Haut Fer",
+        "type": "hack",
+        "coords": [
+          48.067775,
+          6.947745
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "YmlsbUtyMUF5VjRRSzVBVFUyclVKZkxuRkNSZTlBejVrVGphVGI4M0wvWlZXQmdjOGtIQllkTkNjZ0dJc3gxYQ==",
+    "name": "Zimming",
+    "coords": [
+      49.12765,
+      6.586334
+    ],
+    "icon": "https://lh3.googleusercontent.com/mDOGkb-kXpDFF8JNrRs_ZrxAmuDeXhDDDt8ff0jY7TmldxWQAd11j_zIFEFwZjs3eP5YQBLxVCG2ig5tSlQ=s30",
+    "waypoints": [
+      {
+        "name": "Statue Commemorative",
+        "type": "hack",
+        "coords": [
+          49.12765,
+          6.586334
+        ]
+      },
+      {
+        "name": "Zimming: Notre Dame de Lourdes",
+        "type": "hack",
+        "coords": [
+          49.12765,
+          6.586334
+        ]
+      },
+      {
+        "name": "Place Lenormand",
+        "type": "hack",
+        "coords": [
+          49.126885,
+          6.585812
+        ]
+      },
+      {
+        "name": "Zimming Eglise",
+        "type": "hack",
+        "coords": [
+          49.126356,
+          6.583091
+        ]
+      },
+      {
+        "name": "Zimming Croix Rue Verlaine",
+        "type": "hack",
+        "coords": [
+          49.125115,
+          6.58843
+        ]
+      },
+      {
+        "name": "Zimming Croix Gendarmerie",
+        "type": "hack",
+        "coords": [
+          49.123169,
+          6.589347
+        ]
+      }
+    ]
+  }
+]
